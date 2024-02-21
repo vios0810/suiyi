@@ -2,7 +2,15 @@
   "spider": "./fty.jar",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
-   {
+    {
+	"key":"Yingtantv",
+	"name": "💯影探┃TV┃App","type":3,
+	"api":"csp_Yingtantv",
+	"searchable":1,
+	"changeable":0,
+	"jar":"./影探王二小放牛娃.jar"
+    },
+    {
       "key": "安博",
       "name": "🎭安博T4(挂梯秒播)",
       "type": 4,
