@@ -4,7 +4,8 @@
   "sites": [
     {
 	"key":"Yingtantv",
-	"name": "💯影探┃TV┃App","type":3,
+	"name": "💯影探┃TV┃App",
+	"type":3,
 	"api":"csp_Yingtantv",
 	"searchable":1,
 	"changeable":0,
