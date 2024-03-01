@@ -2681,6 +2681,12 @@
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+	"name":"小小TV直播",
+	"type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+	"logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "live",
       "type": "0",
       "pass": true,
