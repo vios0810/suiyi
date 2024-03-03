@@ -2681,6 +2681,20 @@
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+	"name":"🖕天曉得哪來的源🖕",
+	"type":0,
+	"url":"https://gitcode.net/shi800/dd/-/raw/master/e.txt",
+	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+	"logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+	"name":"🖕環球TV🖕",
+	"type":0,
+	"url":"https://gitcode.net/fcy888999/247/-/raw/master/111.txt",
+	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+	"logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
         "name": "😂亂噌的🖕🖕",
         "type": 0,
         "url": "https://wds.ecsxs.com/230864.json",
@@ -2706,6 +2720,13 @@
 	"name":"半路捡来的",
 	"type":0,
 	"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+	"logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+	"name":"🖕18+18=36🖕",
+	"type":0,
+	"url":"https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
 	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
