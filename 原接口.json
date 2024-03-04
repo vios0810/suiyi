@@ -2797,5 +2797,21 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
+    {
+      "name": "🫵撿來的🫵",
+      "type": "0",
+      "pass": true,
+      "url": "https://wds.ecsxs.com/230864.json",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+    {
+      "name": "🫵撿來$$🫵",
+      "type": "0",
+      "pass": true,
+      "url": "https://tang.serv00.net/zb/99",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
   ]
 }
