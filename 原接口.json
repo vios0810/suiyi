@@ -2796,7 +2796,7 @@
       "url": "./lib/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
     {
       "name": "🫵撿來的🫵",
       "type": "0",
@@ -2804,7 +2804,7 @@
       "url": "https://wds.ecsxs.com/230864.json",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
     {
       "name": "🫵撿來$$🫵",
       "type": "0",
