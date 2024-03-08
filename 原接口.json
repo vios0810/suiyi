@@ -12,6 +12,16 @@
 	"jar":"./影探王二小放牛娃.jar"
     },
     {
+            "key": "Supjav",
+            "name": "🔞Supjav",
+            "type": 3,
+            "api": "csp_Supjav",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/xc0126.jar"
+    },
+    {
       "key": "T4-yinyuetai",
       "name": "音悦台",
       "type": 4,
