@@ -2737,10 +2737,18 @@
 	"url":"./央妈.m3u",
 	"boot":false
     },
+    
     {
 	"name":"半路捡来的",
 	"type":0,
 	"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+	"logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+	"name":"半路捡来的",
+	"type":0,
+	"url":"https://d.kstore.space/download/3701/%E7%91%B7%E6%B1%90%E7%9B%B4%E6%92%AD%E7%BB%88%E6%9E%81%E7%89%88.txt",
 	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
