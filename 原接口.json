@@ -2,46 +2,7 @@
   "spider": "./fty.jar",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {
-	"key":"Yingtantv",
-	"name": "💯影探┃TV┃App",
-	"type":3,
-	"api":"csp_Yingtantv",
-	"searchable":1,
-	"changeable":0,
-	"jar":"./影探王二小放牛娃.jar"
-    },
-    {
-            "key": "Supjav",
-            "name": "🔞Supjav",
-            "type": 3,
-            "api": "csp_Supjav",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/xc0126.jar"
-    },
-    {
-      "key": "T4-yinyuetai",
-      "name": "音悦台",
-      "type": 4,
-      "api": "https://catbox.n13.club/yyt.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": true
-    },
-    {
-      "key": "安博",
-      "name": "🎭安博T4(挂梯秒播)",
-      "type": 4,
-      "api": "https://ali.xn--sxr.hz.cz/site/ub1818",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
+    
     {
       "key": "豆豆",
       "name": "豆瓣",
@@ -2782,26 +2743,10 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "🫵撿來$$🫵",
-      "type": "0",
-      "pass": true,
-      "url": "https://tang.serv00.net/zb/99",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "🫵撿來*-*$$🫵",
       "type": "0",
       "pass": true,
       "url": "https://d.kstore.space/download/4708/ilive.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "🫵*-*撿來$$🫵",
-      "type": "0",
-      "pass": true,
-      "url": "https://atomgit.com/vip/zrj/raw/master/lib/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
