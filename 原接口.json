@@ -2730,6 +2730,14 @@
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "🫵精采絕倫🫵",
+      "type": "0",
+      "pass": true,
+      "url": "https://notabug.org/weidi137137/AV18/raw/1b78606f8551a54f188761566d15b021bc57f493/%e6%8a%80%e6%9c%af%e5%91%98%e4%b8%93%e4%be%9bM3U%e9%80%9a%e9%81%93/global.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
 	"name":"🖕18+18=36🖕",
 	"type":0,
 	"url":"https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
