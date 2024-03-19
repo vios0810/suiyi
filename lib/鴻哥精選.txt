@@ -1,3 +1,4 @@
+公益網,#genre#
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="HK",無線新聞1
 http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=807
