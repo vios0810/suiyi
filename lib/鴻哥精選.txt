@@ -1,3 +1,394 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 group-title="HK",無線新聞1
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=807
+#EXTINF:-1 group-title="HK",無線新聞2
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=824
+#EXTINF:-1 group-title="HK",翡翠台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=809
+#EXTINF:-1 group-title="HK",翡翠台2
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=810
+#EXTINF:-1 group-title="HK",NOW新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=808
+#EXTINF:-1 group-title="HK",HOY資訊台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=827
+#EXTINF:-1 group-title="HK",HOY TV
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=828
+#EXTINF:-1 group-title="HK",HOY國際財經台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3153
+#EXTINF:-1 group-title="HK",鳳凰資訊
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=804
+#EXTINF:-1 group-title="HK",鳳凰中文
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=803
+#EXTINF:-1 group-title="HK",鳳凰香港
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=805
+#EXTINF:-1 group-title="HK",NOW星影台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=881
+#EXTINF:-1 group-title="HK",NOW爆發台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=880
+#EXTINF:-1 group-title="HK",美亞電影-港版
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=862
+#EXTINF:-1 group-title="HK",美亞電影-台版
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2143
+#EXTINF:-1 group-title="HK",HBO- 好萊塢
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=786
+#EXTINF:-1 group-title="HK",HBO-強檔巨獻
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=787
+#EXTINF:-1 group-title="HK",HBO-signature
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2209
+#EXTINF:-1 group-title="HK",Cinemax電影
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=790
+#EXTINF:-1 group-title="HK",Lifetime娛樂頻道
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3137
+#EXTINF:-1 group-title="HK",ROCK Entertainment
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3138
+#EXTINF:-1 group-title="HK",搖滾行動
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3139
+#EXTINF:-1 group-title="HK",AMC最愛電影
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2180
+#EXTINF:-1 group-title="HK", 好萊塢電影
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2132
+#EXTINF:-1 group-title="HK",龍祥時代
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2141
+#EXTINF:-1 group-title="HK",Dreamwork夢工廠動畫
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3159
+#EXTINF:-1 group-title="HK",TVB娛樂新聞台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=802
+#EXTINF:-1 group-title="HK",TVB星河
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=863
+#EXTINF:-1 group-title="HK",TVB經典台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=878
+#EXTINF:-1 group-title="HK",TVB經典台2
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=778
+#EXTINF:-1 group-title="HK",TVB華語劇台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3127
+#EXTINF:-1 group-title="HK",TVB粵語台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3128
+#EXTINF:-1 group-title="HK",TVB亞洲劇台直播
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3152
+#EXTINF:-1 group-title="HK",TVB黃金翡翠台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3129
+#EXTINF:-1 group-title="HK",TVB黃金華劇台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3130
+#EXTINF:-1 group-title="HK",Viutv
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=811
+#EXTINF:-1 group-title="HK",J2
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=819
+#EXTINF:-1 group-title="HK",無線財經體育
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=817
+#EXTINF:-1 group-title="HK",18台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3131
+#EXTINF:-1 group-title="HK",NOW-668
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3123
+#EXTINF:-1 group-title="HK",明珠台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=820
+#EXTINF:-1 group-title="HK",現在財經台直播
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3101
+#EXTINF:-1 group-title="HK",Now新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3102
+#EXTINF:-1 group-title="HK",Now直播台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3103
+#EXTINF:-1 group-title="HK",立即報價台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3104
+#EXTINF:-1 group-title="HK",NOW紫金國際台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3105
+#EXTINF:-1 group-title="HK",NOW華劇台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3106
+#EXTINF:-1 group-title="HK",NOW 活躍台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3107
+#EXTINF:-1 group-title="HK",麵包台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2186
+#EXTINF:-1 group-title="HK",耀才財經
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=818
+#EXTINF:-1 group-title="HK",RHK31
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=859
+#EXTINF:-1 group-title="HK",RHK32
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=858
+#EXTINF:-1 group-title="HK",RHK33
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=763
+#EXTINF:-1 group-title="HK",RHK34
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=764
+#EXTINF:-1 group-title="HK",RHK35
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=765
+#EXTINF:-1 group-title="TW",中天新聞[極速]
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=794
+#EXTINF:-1 group-title="TW",中天新聞[高清]
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=806
+#EXTINF:-1 group-title="TW",中天新聞循環
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=854
+#EXTINF:-1 group-title="TW",中天亞洲台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=836
+#EXTINF:-1 group-title="TW",中天娛樂
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2174
+#EXTINF:-1 group-title="TW",中天綜合
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2175
+#EXTINF:-1 group-title="TW",CN卡通
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2124
+#EXTINF:-1 group-title="TW",東森衛視
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2176
+#EXTINF:-1 group-title="TW",東森財經
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=830
+#EXTINF:-1 group-title="TW",東森超視台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=831
+#EXTINF:-1 group-title="TW",東森電影
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=785
+#EXTINF:-1 group-title="TW",東森戲劇
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2128
+#EXTINF:-1 group-title="TW",東森新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=823
+#EXTINF:-1 group-title="TW",東森洋片
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=784
+#EXTINF:-1 group-title="TW",東森綜合台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3160
+#EXTINF:-1 group-title="TW",TVBS AISA
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=839
+#EXTINF:-1 group-title="TW",TVBS 高清
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=821
+#EXTINF:-1 group-title="TW",TVBS 新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2107
+#EXTINF:-1 group-title="TW",TVBS NEWS網絡獨家
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=845
+#EXTINF:-1 group-title="TW",TVBS歡樂台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2108
+#EXTINF:-1 group-title="TW",TVBS精採台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3154
+#EXTINF:-1 group-title="TW",TVBS綜藝台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3163
+#EXTINF:-1 group-title="TW",TVBS台劇台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3164
+#EXTINF:-1 group-title="TW",阿里郎
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2101
+#EXTINF:-1 group-title="TW",BBC 地球
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=847
+#EXTINF:-1 group-title="TW",CI 罪案偵查頻道
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=783
+#EXTINF:-1 group-title="TW",CNEX紀實頻道
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=774
+#EXTINF:-1 group-title="TW",ELTV英語新聞台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=776
+#EXTINF:-1 group-title="TW",History歷史頻道
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=782
+#EXTINF:-1 group-title="TW",i-Fun動漫台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=767
+#EXTINF:-1 group-title="TW",JET TV
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2104
+#EXTINF:-1 group-title="TW",熱愛大自然
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=781
+#EXTINF:-1 group-title="TW",MTV LIVE
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=780
+#EXTINF:-1 group-title="TW",愛爾達體育1台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=812
+#EXTINF:-1 group-title="TW",愛爾達體育2台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=813
+#EXTINF:-1 group-title="TW",愛爾達體育3台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2110
+#EXTINF:-1 group-title="TW",愛爾達戲劇
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2111
+#EXTINF:-1 group-title="TW",愛爾達影劇
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2112
+#EXTINF:-1 group-title="TW",愛爾達娛樂台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=769
+#EXTINF:-1 group-title="TW",愛爾達綜合
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2113
+#EXTINF:-1 group-title="TW",八大第一台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2114
+#EXTINF:-1 group-title="TW",八大戲劇
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2115
+#EXTINF:-1 group-title="TW",八大綜藝
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2183
+#EXTINF:-1 group-title="TW",八大精彩
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2184
+#EXTINF:-1 group-title="TW",採昌影劇台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2181
+#EXTINF:-1 group-title="TW",DaVinCi Learning達文西頻道
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2182
+#EXTINF:-1 group-title="TW",非凡新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2130
+#EXTINF:-1 group-title="TW",公視1台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2178
+#EXTINF:-1 group-title="TW",公視2台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2131
+#EXTINF:-1 group-title="TW", 公視戲劇
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=773
+#EXTINF:-1 group-title="TW",華視
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3161
+#EXTINF:-1 group-title="TW",華視新聞資訊台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=766
+#EXTINF:-1 group-title="TW",華藝綜合台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2162
+#EXTINF:-1 group-title="TW", 韓國娛樂台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2164
+#EXTINF:-1 group-title="TW",寰宇財經
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2134
+#EXTINF:-1 group-title="TW",寰宇全球新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=856
+#EXTINF:-1 group-title="TW",寰宇台灣新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=838
+#EXTINF:-1 group-title="TW",靖天國際
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2136
+#EXTINF:-1 group-title="TW",靖天日本台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=771
+#EXTINF:-1 group-title="TW",鏡子新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=855
+#EXTINF:-1 group-title="TW",龍華電影台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=775
+#EXTINF:-1 group-title="TW",龍華偶像
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2138
+#EXTINF:-1 group-title="TW",龍華日韓台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=772
+#EXTINF:-1 group-title="TW",龍華戲劇
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2139
+#EXTINF:-1 group-title="TW",龍華洋片
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2140
+#EXTINF:-1 group-title="TW",美食星球
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=877
+#EXTINF:-1 group-title="TW",民視
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=798
+#EXTINF:-1 group-title="TW",民視第一台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=799
+#EXTINF:-1 group-title="TW",民視高清台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2144
+#EXTINF:-1 group-title="TW",民視旅遊台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=796
+#EXTINF:-1 group-title="TW",民視台灣台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=797
+#EXTINF:-1 group-title="TW",民視新聞台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=850
+#EXTINF:-1 group-title="TW",年代新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2148
+#EXTINF:-1 group-title="TW",年代電視台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2147
+#EXTINF:-1 group-title="TW",三立LIVE
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=849
+#EXTINF:-1 group-title="TW",三立都會
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2149
+#EXTINF:-1 group-title="TW",三立台灣台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2150
+#EXTINF:-1 group-title="TW",三立戲劇
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2151
+#EXTINF:-1 group-title="TW",三立新聞台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=857
+#EXTINF:-1 group-title="TW",三立綜合
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2152
+#EXTINF:-1 group-title="TW",台視台灣台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2153
+#EXTINF:-1 group-title="TW",台視新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=852
+#EXTINF:-1 group-title="TW",台視綜合台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2155
+#EXTINF:-1 group-title="TW",天映經典
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=861
+#EXTINF:-1 group-title="TW",天映頻道
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=864
+#EXTINF:-1 group-title="TW",緯來戲劇·
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2156
+#EXTINF:-1 group-title="TW",緯來電影
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2157
+#EXTINF:-1 group-title="TW",緯來精彩
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2158
+#EXTINF:-1 group-title="TW",緯來日本
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2159
+#EXTINF:-1 group-title="TW",緯來體育2
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2160
+#EXTINF:-1 group-title="TW",緯來綜合
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2161
+#EXTINF:-1 group-title="TW",幸福空間居家台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=768
+#EXTINF:-1 group-title="TW",亞洲旅遊台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2165
+#EXTINF:-1 group-title="TW",亞洲美食台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2166
+#EXTINF:-1 group-title="TW",十方法界
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2167
+#EXTINF:-1 group-title="TW",EYE旅遊台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2168
+#EXTINF:-1 group-title="TW",EYE戲劇台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2169
+#EXTINF:-1 group-title="TW",壹新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=928
+#EXTINF:-1 group-title="TW",影迷數位電影台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=770
+#EXTINF:-1 group-title="TW",影迷數位紀實台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3151
+#EXTINF:-1 group-title="TW",豬哥亮歌廳秀
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3162
+#EXTINF:-1 group-title="TW",中視經典
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2170
+#EXTINF:-1 group-title="TW",中視高清
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=2171
+#EXTINF:-1 group-title="TW",中視綜藝
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=816
+#EXTINF:-1 group-title="TW",中視新聞台
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=851
+#EXTINF:-1 group-title="HK",澳門蓮花
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=793
+#EXTINF:-1 group-title="HK",澳門衛視
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=929
+#EXTINF:-1 group-title="HK",澳門資訊
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=882
+#EXTINF:-1 group-title="HK",澳視澳門
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=883
+#EXTINF:-1 group-title="CN",CCTV1
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3701
+#EXTINF:-1 group-title="CN",CCTV2
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3702
+#EXTINF:-1 group-title="CN",CCTV3
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3703
+#EXTINF:-1 group-title="CN",CCTV4
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3704
+#EXTINF:-1 group-title="CN",CCTV5
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3705
+#EXTINF:-1 group-title="CN",CCTV5plus
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3718
+#EXTINF:-1 group-title="CN",CCTV6
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3706
+#EXTINF:-1 group-title="CN",CCTV7
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3707
+#EXTINF:-1 group-title="CN",CCTV8
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3708
+#EXTINF:-1 group-title="CN",CCTV9
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3709
+#EXTINF:-1 group-title="CN",CCTV10
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3710
+#EXTINF:-1 group-title="CN",CCTV11
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3711
+#EXTINF:-1 group-title="CN",CCTV12
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3712
+#EXTINF:-1 group-title="CN",CCTV13
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3713
+#EXTINF:-1 group-title="CN",CCTV14
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3714
+#EXTINF:-1 group-title="CN",CCTV15
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3715
+#EXTINF:-1 group-title="CN",CCTV16
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3716
+#EXTINF:-1 group-title="CN",CCTV17
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3717
+#EXTINF:-1 group-title="CN",廣東少兒
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3132
+#EXTINF:-1 group-title="CN",廣東民生
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3133
+#EXTINF:-1 group-title="CN",廣東影視
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3134
+#EXTINF:-1 group-title="CN",廣東珠江
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3135
+#EXTINF:-1 group-title="CN",廣東衛視
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3136
+#EXTINF:-1 group-title="CN",廣東體育
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3126
+#EXTINF:-1 group-title="CN",廣東新聞
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3956
+#EXTINF:-1 group-title="SPORTS",18台[體育]
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3131
+#EXTINF：-1 group-title =“體育”，現在668[體育]
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3123
+#EXTINF:-1 group-title="SPORTS",現在 641[體育]
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3168
+#EXTINF:-1 group-title="SPORTS",現在 NBA[運動]
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=3155
+#EXTINF:-1 group-title="SPORTS",現在精選[體育]
+http://m.xoxtvs.com/ott/?q=4a087435b15d6bf8c783978b613898fe&id=891
+#EXTINF:-1 group-title="SPORTS",NOW SPORT PLUS[體育]
+http://m.xoxtvs.com/ott/?q=4a087435
 UBTV,#genre#
 华视新闻,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民视HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
