@@ -2663,6 +2663,15 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+        "name": "🫵公益TV🖕",
+        "type": 0,
+        "url": "https://m.xoxtvs.com/m3u/m5u.php?username=3675533412",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
         "name": "🫵4G TV🖕",
         "type": 0,
         "url": "https://dpaste.org/wjSHR/raw",
