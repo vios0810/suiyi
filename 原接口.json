@@ -15,12 +15,13 @@
     },
     {
       "key": "csp_XYQHikerAL_玩你老哥",
-      "name":"📀玩你老哥","type":3,
+      "name":"📀玩你老哥",
+      "type":3,
       "api":"csp_XYQHikerAL",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./wnlg.json"
+      "ext":"./lib/wnlg.json"
     },
     {
       "key": "配置中心",
