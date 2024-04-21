@@ -1062,19 +1062,6 @@ Sky Sports Main Event,mitv://generationnexxxt.com:19806/65791ef800079cd23163fe0f
 Sky Sports Cricket,mitv://generationnexxxt.com:19806/65791ef8000290523163fcb71a5c79e1
 Sky Sports Mix,mitv://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
 
-熊猫直播,#genre#
-iPanda成都,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
-iPanda大丰麋鹿,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
-iPanda都江堰妃妃,http://gctxyc.liveplay.myqcloud.com/gc/xiongmao13_1/index.m3u8
-iPanda都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
-iPanda都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
-iPanda都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
-iPanda都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
-iPanda都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
-iPanda基地别墅1,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
-iPanda基地别墅2,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
-iPanda基地成年园1,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
-iPanda基地母子园1,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
 电信体育频道,#genre#
 纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
@@ -1117,6 +1104,7 @@ Sky Sports Main Event,P2p://generationnexxxt.com:19806/65791ef800079cd23163fe0f4
 Sky Sports Cricket,P2p://generationnexxxt.com:19806/65791ef8000290523163fcb71a5c79e1
 Sky Sports Mix,P2p://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
 Golf Channel,P2p://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
+
 晴天港台,#genre#
 台视,mitv://135.148.104.228:19806/9868c18e3c0940cd8aa003d9ae54f862
 霹雳台湾台,mitv://135.148.104.228:19806/dcdf778fe9ca4184ad6af3a911765cf0
@@ -1285,171 +1273,6 @@ EYETV戏剧台,mitv://135.148.104.228:19806/2831986ed4b448c9b626788fbd3f2f89
 镜新闻,mitv://135.148.104.228:19806/668a0abb880a496d8f57fad2f580566b
 MTV,mitv://135.148.104.228:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
-直播中国,#genre#
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-新疆天山(定海神针),http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
-新疆天山(定海神针),https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
-黄花城水长城02,http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
-黄花城水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
-湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-湖南张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-湖南张家界阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
-湖南张家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
-湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
-湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
-四川峨眉山远眺贡嘎山,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-四川峨眉山贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
-四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-浙江杭州云栖小镇,https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
-重庆石柱华溪村,https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
-安徽金寨大湾村,https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
-山西苛岚宋家沟新村,https://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
-河北张北德胜村,https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
-新疆天山(海西平台),https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
-新疆天山(马牙山),https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
-新疆天山(灯杆山),https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
-湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-湖南张家界天门山天门洞,https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
-湖南张家界天门山天空步道,https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
-湖南张家界天门山云梦仙顶,https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8
-厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
-八里沟风景区桃花湾瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
-八里沟风景区天界山玻璃栈道,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
-汶川映秀新城,https://gcalic.v.myalicdn.com/gc/wcyxxc01_1/index.m3u8
-十八洞村,https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8
-趵突泉,https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
-安徽池州九华山风景区拜经台,https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
-安徽池州九华山风景区九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-安徽池州九华山风景区花台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
-江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-江苏徐州云龙湖风景区云龙山观景台南,https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
-浙江杭州千岛湖,https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
-南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-云南丽江玉湖,https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
-云南丽江蓝月谷,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-云南丽江一滴水过丽江,https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
-云南丽江玉龙山草甸,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-云南丽江白水台,https://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
-云南丽江蓝月谷中游湖面,https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
-云南丽江高尔夫,https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
-云南丽江冰川,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-云南丽江印象实景,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-福建漳州六鳌翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
-福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
-天津之眼,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-四川西昌邛海景区,https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
-普陀山,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-河南郑东新区千玺广场,https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
-四川四姑娘山幺妹峰,https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
-四川四姑娘山隆珠措,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
-宁夏沙坡头长河落日,https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
-宁夏沙坡头大漠孤烟,https://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8
-丽江古城大研花巷观景,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-丽江古城大水车,https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
-丽江古城万古楼遥望玉龙山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
-狮子山鸟瞰丽江古城,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
-云台山小寨沟,https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
-云台山百家岩,https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
-云台山红石峡,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
-云台山茱萸峰,https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
-雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
-雪乡梦幻家园观景台,https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
-雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
-乌镇蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
-乌镇西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
-乌镇全景,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
-凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
-凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
-黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
-黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
-黄花城水长城04,https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
-鸣沙山,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-鸣沙山山门,https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
-月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
-五彩池,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
-黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-望乡台,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
-洗身洞,https://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
-泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
-泰山大观峰,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
-泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
-泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
-泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
-泰山天街,https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
-泰山经石峪,https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8
-泰山望人松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
-泰山龙潭水库,https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
-泰山南天门,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
-泰山白云亭悬崖,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
-泰山扇子崖,https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
-泰山太平岭,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
-泰山碧霞祠,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-泰山玉皇顶东,https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
-泰山玉皇顶西,https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8
-黄山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
-黄山梦笔生花,https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
-黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
-黄山平天矼,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8
-黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
-黄山光明顶,https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
-黄山,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
-福建宁德太姥山景区,https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8
-陕西洋县国宝朱鹮03,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
-陕西洋县国宝朱鹮04,https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8
-安徽黟县西递半山亭,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
-安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
-安徽黟县宏村月沼,https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
-安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
-深圳世界之窗文化主题公园,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
-八达岭长城南七楼,https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
-八达岭长城北十楼,https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
-中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
-中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
-中央电视塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
-恒山悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
-恒宗,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
-黄果树银链坠潭瀑布,https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
-黄果树六角亭瀑布,https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
-天涯鸟瞰,https://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
-天涯石,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
-南天一柱,https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
-日月石,https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
-桂林象山公园,https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8
-六盘山红军长征景区,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
-华山,https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
-贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
-贵州省兴义市马岭河峡谷,https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
-贵州省贞丰市双峰景区,https://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8
-云南大理崇圣寺三塔中景,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
-云南大理崇圣寺三塔湖面,https://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
-云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
-广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
-青岛崂山双福,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-青岛崂山太清,https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
-青岛崂山灵旗峰,https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
-青岛崂山八水河,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-三亚南山文化旅游区海上观音,https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
-仙都风景区,https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
-宁夏黄河大峡谷,https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
-张掖七彩丹霞,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
-嵩山少林寺广场,https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8
-婺源01,https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
-神农架金丝猴01,https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
-都江堰鱼嘴,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-丹霞山丹梯铁锁,https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
-丹霞山韶音亭,https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
-云南红河哈尼梯田多依树景点,https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
-云南红河哈尼梯田普高老寨,https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
-云南红河哈尼梯田老虎嘴,https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
-江西龙虎山中间水泡,https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
-江西龙虎山山涧栈道,https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
-乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-
 海馬TV,#genre#
 港澳台|密碼：
 鳳凰衛視中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
@@ -1581,97 +1404,7 @@ TVB1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension
 香港麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 HOY電視台，http://51.89.21.73:27347/livehttpplay?channel_id=20152
 澳視澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
-CGTN英語,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
-CGTN記錄,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhete.com_hls.zhete.com.
-CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.com_hls.zte.com
-CGTN法文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhete.com_hls.zhete.com.
-CGTN西文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhezhe.
-CGTN阿語,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhezhe.
-THAIPBS3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-時尚電視,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-金磚電視,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-中國環球,http://live.cgtn.com/500/prog_index.m3u8
-華文一本,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-華文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
-烏克蘭台,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
-泰國ASTV,http://news1.live14.com/stream/news1_hi.m3u8
-北韓新聞,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韓國新聞,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-俄羅斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-環球頻道,http://live.cgtn.com/500/prog_index.m3u8
-紅牛運動,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-CNA 頻道，http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-法國時尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-歐洲體育,http://europa-crtvg.flumotion.com/playlist.m3u8
-歐洲華01,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-歐洲華02,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-歐洲華06,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-中國國際電視台，https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-半島英語,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-時尚電視 4K，https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-韓·BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-韓·SBS,http://1.245.74.5:1935/live/tv/.m3u8
-韓·阿里郎韓國,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韓·JobPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-韓GS我的店鋪,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-韓·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-韓·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-韓·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-韓·EBS1,https://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-韓·EBS2,https://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-韓·EBSe,https://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-俄·IGITV,https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-俄·RBC，http://92.50.128.180/utv/1358/index.m3u8
-美·NASA 1，https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-美·NASA 2，https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-美·紅牛運動,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-烏M2音樂,https://live.m2.tv/hls3/stream.m3u8
-西‧加利歐洲西亞體育電視台,https://europa-crtvg.flumotion.com/playlist.m3u8
-希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-越·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-越安視網,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-加拿大一號,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-CA=,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-阿斯特拉罕24 =，https://streaming.astrakhan.ru/astrakhan24/index.m3u8
-薩瑪拉,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-日本QVC，https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-央視ipv6|密碼：
-CCTV-1綜合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yininhe.live_hls.com.
-CCTV-2財經,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001293/index.m3u8?virtualDomain=yinzhe.live_hls.
-CCTV-3綜藝,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001598/index.m3u8?virtualDomain=yinzhe.live_hls.
-CCTV-4中文國際,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001290/index.m3u8?virtualDomain=yinzhe.live_hls.
-CCTV-5體育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yininhe.live_hls.com.
-CCTV-5+體育賽事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.com
-CCTV-6電影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yininhe.live_hls.com.
-CCTV-7國防軍事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001291/index.m3u8?virtualDomain=yinzhe.live_hls.
-CCTV-8電視劇,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinzhe.live_hls.
-CCTV-9記錄,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yininhe.live_hls.com.
-CCTV-10科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001288/index.m3u8?virtualDomain=yinhe.live0001288/index.m3u8?virtualDomain=yinhe.live_hls.
-CCTV-11戲曲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001327/index.m3u8?virtualDomain=yinhe.live0001327/index.m3u8?virtualDomain=yinhe.live_hls.
-CCTV-12社會與法,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live0001289/index.m3u8?virtualDomain=yinhe.live.com
-CCTV-13新聞,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001328/index.m3u8?virtualDomain=yinzhe.live_hls.
-CCTV-14兒童,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001292/index.m3u8?virtualDomain=yinhe.live0001292/index.m3u8?virtualDomain=yinhe.live_hls.
-CCTV-15音樂,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001020/index.m3u8?virtualDomain=yinzhe.live_hls.
-CCTV-16 休息,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000002395/index.m3u8?virtualDomain=yinhe.live0002395/index.m3u8?virtualDomain=yinhe.live_hls.
-CCTV-17農業農村,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000090990000001295/index.m3u8?virtualDomain=yinhe.live0001295/index.m3u8?virtualDomain=yinhe.live_hls.com
-CCTV兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-央視電視指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-中央電視台第一部,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-CCTV懷舊劇場,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-央視女性時尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-CCTV風雲劇場,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-中視風雲音樂,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/888888893/224/3221226953/index.m3u8
-CCTV風雲足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-CCTV央視撞球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/888888893/224/3221226956/index.m3u8
-CCTV高爾夫•網球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-央視央視文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-中國教育1台,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-中國教育2台,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-中國教育3台,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhezhe.
-中國教育4台,http://[2409
+
 UBTV,#genre#
 华视新闻,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民视HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
@@ -1797,6 +1530,7 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
 靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 纬来体育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+
 歐飛頻道嗅探,#genre#
 parse=1
 台視HD ,https://www.ofiii.com/channel/watch/4gtv-4gtv066
@@ -1810,6 +1544,7 @@ parse=1
 食尚玩家 ,https://www.ofiii.com/channel/watch/ofiii140
 11點熱炒店 ,https://www.ofiii.com/channel/watch/ofiii143
 龍華電影台 ,https://www.ofiii.com/channel/watch/litv-longturn03
+
 鴻哥撿到的頻道,#genre#
 中天新闻,https://s2.pub/cctv-17
 东森新闻,https://s2.pub/cctv-18
@@ -1887,6 +1622,7 @@ LIVE三立,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvf
 TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
 TVBS频道,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+
 鴻哥精選新聞頻道,#genre#
 東森新聞 ,https://www.youtube.com/watch?v=2dfAzcDf8Zg
 台視新聞台HD ,https://www.youtube.com/watch?v=xL0ch83RAK8
@@ -1990,6 +1726,7 @@ TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvb
 HOY资讯频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
 财经资讯香港,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
 财经资讯香港,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
+
 鴻哥精選綜藝頻道,#genre#
 緯來戲劇,tvbus://5gzBWbU1wHMXHfLAgnmPHzjgLX48Qh7MQMHqWaRaFftHT5FKJmZKrgV3tjhzC
 緯來育樂,tvbus://5Pr6ixRQG7ppS3rqc4n84JwF7JAogqi28NzzfbUsZFa6m6RaRoKWYEFQdPz1H
@@ -2003,6 +1740,7 @@ GPTV電影台 ,https://www.youtube.com/watch?v=keanRndSv6w
 台灣啟示錄 ,https://www.youtube.com/watch?v=5TRvk38m59M
 藍色水玲瓏 ,https://www.youtube.com/watch?v=298QROP4xe0
 新玫瑰瞳鈴眼 ,https://www.youtube.com/watch?v=dZNl1pqkPuA
+
 鴻哥偷來頻道,#genre#
 東森戲劇 ,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 三立戲劇台 ,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
@@ -2139,6 +1877,7 @@ HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+
 鴻哥台灣頻道,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -2348,6 +2087,7 @@ HITS Movies,mitv://generationnexxxt.com:19806/72b44f288c8c4c5baa031ec11d9e0e35
 CHC动作电影,mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
 CHC高清电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
+
 鴻哥鬥魚頻道,#genre#
 經典恐怖電影 ,http://epg.112114.xyz/douyu/1165374
 鬥魚恐怖電影1 ,http://epg.112114.xyz/douyu/263824
@@ -2386,6 +2126,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21
 鬥魚電影42,http://epg.112114.xyz/douyu/315457
 鬥魚電影43,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K.flv?wsAuth=5098901b40bc7b87b4eed18509f89245&token=cpn-androidmpro-0-20415-b6774b3b3249db178d68e54e4be54bf1ca391679b3fb2ffa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 鬥魚電影45,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+
 鴻哥精選音樂頻道,#genre#
 廣東流行曲 ,https://www.youtube.com/watch?v=9Z11gn-lDSQ
 滾石現場 ,https://www.youtube.com/watch?v=oUVIfvx0dKE
