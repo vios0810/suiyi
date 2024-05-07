@@ -11,7 +11,83 @@
     "quickSearch" : 1,
     "changeable" : 1,
     "jar" : "http://146.56.135.114:34913/box/tv/fan.txt"
-    },  
+    }, 
+    {
+    "key" : "88js",
+    "name" : "⚽ 88┃看球",
+    "type" : 3,
+    "api" : "csp_Kanqiu",
+    "style" : {
+      "type" : "list"
+    },
+    "searchable" : 0,
+    "quickSearch" : 0,
+    "changeable" : 0,
+    "jar" : "http://146.56.135.114:34913/box/tv/fan.txt"
+   },
+   {
+    "key" : "Jrsjs",
+    "name" : "⚽ Jrs┃球迷",
+    "type" : 3,
+    "api" : "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext" : "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
+    "style" : {
+      "type" : "list"
+    },
+    "searchable" : 0,
+    "quickSearch" : 0,
+    "changeable" : 0
+   }, 
+   {
+    "key" : "310js",
+    "name" : "⚽310┃看球",
+    "type" : 3,
+    "api" : "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext" : "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
+    "style" : {
+      "type" : "list"
+    },
+    "searchable" : 0,
+    "quickSearch" : 0,
+    "changeable" : 0
+   }, 
+   {
+    "key" : "企鹅体育xp",
+    "name" : "\uD83D\uDC27鵝鵝┃體育",
+    "type" : 3,
+    "api" : "csp_XPath",
+    "style" : {
+      "type" : "list"
+    },
+    "searchable" : 0,
+    "quickSearch" : 0,
+    "changeable" : 0,
+    "ext" : "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json",
+    "jar" : "http://146.56.135.114:34913/box/tv/fan.txt"
+   },
+   {
+    "key" : "酷奇",
+    "name" : "\uD83C\uDFA4酷奇┃MV",
+    "type" : 3,
+    "api" : "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext" : "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
+    "style" : {
+      "type" : "rect",
+      "ratio" : 1.597
+   },
+    "searchable" : 0,
+    "quickSearch" : 0,
+    "changeable" : 0
+   }, 
+   {
+    "key" : "MTV",
+    "name" : "\uD83C\uDFA7明星┃MV",
+    "type" : 3,
+    "api" : "csp_Bili",
+    "style" : {
+      "type" : "rect",
+      "ratio" : 1.597
+    },
     {
       "key": "csp_KungFu404",
       "name": "阿里｜设置token",
