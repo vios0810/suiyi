@@ -2,6 +2,16 @@
   "spider": "./fty.jar",
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
+     {
+    "key" : "Nbys",
+    "name" : "\uD83C\uDF08泥巴影視",
+    "type" : 3,
+    "api" : "csp_NiNi",
+    "searchable" : 1,
+    "quickSearch" : 1,
+    "changeable" : 1,
+    "jar" : "http://146.56.135.114:34913/box/tv/fan.txt"
+    },  
     {
       "key": "csp_KungFu404",
       "name": "阿里｜设置token",
