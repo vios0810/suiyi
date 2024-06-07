@@ -2610,7 +2610,14 @@
         "ua": "okhttp/3.15",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },  
+    }, 
+    {
+      "name": "Cyber TV",
+      "type": 0,
+      "url": "https://files.catbox.moe/4jrtg7.txt",
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+    },
     {
 	"name": "鴻哥精選",
 	"type": 0,
