@@ -2612,6 +2612,15 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
+	"name": "Z88",
+	"type": 0,
+	"url": "https://files.catbox.moe/l9cafg.txt",
+        "playerType": 1,
+	"ua": "okhttp/3.15",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+	"logo": "https://epg.112114.xyz/logo/{name}.png"
+    },	  
+    {
 	"name": "大街來的源",
 	"type": 0,
 	"url": "https://files.catbox.moe/1f0ei1.txt",
