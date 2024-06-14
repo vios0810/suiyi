@@ -119,7 +119,7 @@ Disney Junior 6,https://m.youtube.com/@disneyjunior/streams/6
 麥兜噹噹伴我心,https://m.youtube.com/watch?v=whvCzWu-2bQ&ln=1$Js=https://clonglii.serv00.net/youtube05.js
 麥兜噹噹伴我心,https://m.youtube.com/watch?v=whvCzWu-2bQ&ln=2$Js=https://clonglii.serv00.net/youtube05.js
 【戲劇&電影】,#genre#
-【GPTV電影台】(台灣節點),https://m.youtube.com/@GaragePlay/streams/1
+【GPTV電影台】(台灣節點),https://www.youtube.com/watch?v=V0eNcTH0LDo
 愛爾達影劇1-【去有風的地方】(台灣節點),https://m.youtube.com/@eltadrama/streams/1
 愛爾達影劇2-【我和我們在一起】(台灣節點),https://m.youtube.com/@eltadrama/streams/2
 愛爾達影劇3-【謝謝你醫生】(台灣節點),https://m.youtube.com/@eltadrama/streams/3
@@ -158,11 +158,11 @@ JTBC Drama,https://m.youtube.com/@JTBCdrama/streams/1
 非凡大探索2-【台中美食】,https://m.youtube.com/@ustvfoody/streams/1
 非凡大探索3-【高雄美食】,https://m.youtube.com/@ustvfoody/streams/2
 亞洲美食頻道,https://m.youtube.com/@lemon_films/streams/1
-綜藝大熱門,https://m.youtube.com/@HotDoorNight/streams/1
-【飢餓遊戲】,https://m.youtube.com/@HungerGames123/streams/1
+綜藝大熱門,https://www.youtube.com/watch?v=-L9cBf3oAO0
+【飢餓遊戲】,https://www.youtube.com/watch?v=A98LJq71BZg
 中視經典綜藝1-【萬秀豬王】,https://m.youtube.com/@ctvent_classic/streams/1
 華視綜藝頻道1-【現代嘉慶君】,https://m.youtube.com/@CTSSHOW/streams/1
-華視綜藝頻道2-【天才衝衝衝】,https://m.youtube.com/@CTSSHOW/streams/2
+華視綜藝頻道2-【天才衝衝衝】,https://www.youtube.com/@CTSSHOW/streams/2?app=desktop
 【豬哥會社】,https://m.youtube.com/@FTV_ZhuGeClub/streams/1
 【我愛冰冰Show】,https://m.youtube.com/@ilovebingbingshow/streams/1
 奔跑吧兄弟(韓國)(SBSRunningMan),https://m.youtube.com/@SBSRunningMan/streams/1
