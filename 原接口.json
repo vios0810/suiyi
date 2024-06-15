@@ -3,6 +3,14 @@
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
      {
+      "key": "泥巴",
+      "name": "泥巴|含18+",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "ext": "1"
+    },
+    {
     "key" : "Nbys",
     "name" : "\uD83C\uDF08泥巴影視",
     "type" : 3,
