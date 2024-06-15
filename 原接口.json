@@ -2596,6 +2596,15 @@
     {
         "name": "🫵EPG TV🖕",
         "type": 0,
+        "url": "https://fm1077.serv00.net/SmartTV.m3u",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+        "name": "🫵EPG TV🖕",
+        "type": 0,
         "url": "https://epg.pw/test_channels_taiwan.txt",
         "playerType": 1,
         "ua": "okhttp/3.15",
