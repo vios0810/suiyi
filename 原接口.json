@@ -2646,15 +2646,7 @@
 	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-        "name": "😂亂噌的🖕🖕",
-        "type": 0,
-        "url": "https://wds.ecsxs.com/230864.json",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    
     {
 	"name":"小小TV直播",
 	"type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
@@ -2668,14 +2660,7 @@
 	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "🫵精采絕倫🫵",
-      "type": "0",
-      "pass": true,
-      "url": "https://notabug.org/weidi137137/AV18/raw/1b78606f8551a54f188761566d15b021bc57f493/%e6%8a%80%e6%9c%af%e5%91%98%e4%b8%93%e4%be%9bM3U%e9%80%9a%e9%81%93/global.m3u",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+   
     {
 	"name":"🖕18+18=36🖕",
 	"type":0,
@@ -2684,47 +2669,18 @@
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
-	"name":"🖕18+1+🖕",
-	"type":0,
-	"url":"https://raw.gitmirror.com/wwb521/live/main/fl.txt",
-	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-	"logo":"https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "🫵撿來*-*$$🫵",
-      "type": "0",
-      "pass": true,
-      "url": "https://d.kstore.space/download/4708/ilive.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name":"🐵OuHua Live",
       "url":"http://oy.oyxx-1.eu.org/p3p.php",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
      },
      {
-      "name":"🔞OuHua CR",
-      "url":"http://oy.oyxx-1.eu.org/p3p18.php",
+      "name":"🔞小小TV直播",
+      "url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
      },
-{"name":"小小TV直播","type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"范明","type":0,"url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"道长","type":0,"url":"http://111.67.196.181/zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"肥猫","type":0,"url":"http://我不是.肥猫.love:63/TV/tvzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"BESTV","type":0,"url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"武哥自用","type":0,"url":"https://dpaste.com/AJAPVECVD.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"YouTube","type":0,"url":"https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
@@ -2738,25 +2694,15 @@
 
 {"name":"三哥偷蜂蜜大屌18+","type":0,"url":"https://qu.ax/fMNM.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"月光宝盒","type":0,"url":"https://iptvindex.com/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"罗汉果","type":0,"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
 {"type":0,"pass":true,"name":"影子TV","url":"https://raw.githubusercontent.com/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1},
-
-{"name":"四k数毛TV","type":0,"header":{"user-agent":"Mozilla/5.0(SymbianOS/9.4;Series60/5.0NokiaN97-1/20.0.019;Profile/MIDP-2.1Configuration/CLDC-1.1)AppleWebKit/525(KHTML,likeGecko)BrowserNG/7.1.18124","referer":"https://github.com/"},"url":"https://dpaste.com/AY5T5QPUX.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"垃圾堆成山","type":0,"url":"https://qu.ax/ktVO.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"武哥成人点播","type":0,"url":"https://qu.ax/CgvU.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"惊云TV","type":0,"url":"https://download.kstore.space/download/5147/惊云TV.txt?password=f35cb0ff3d9d077cf16690b95f417271-1695976671610","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
 {"name":"┃龙龙🐉┃直播┃wudi┃","type":0,"url":"https://raw.githubusercontent.com/549835541/tv/main/v.txt","epg":""},
 
 {"name":"┃龙龙🐉┃直播┃TV┃","type":0,"url":"https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?inline=false","epg":""},
-
-{"name":"┃龙龙🐉┃live┃","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"┃龙龙🐉┃直播XIAOHU┃","type":0,"url":"https://raw.githubusercontent.com/549835541/tv/main/XIAOHU.txt","epg":""},
 
