@@ -2619,16 +2619,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-        "name": "🫵SmartTV🖕",
-        "type": 0,
-        "url": "https://fm1077.serv00.net/SmartTV.m3u",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
+   {
         "name": "🫵EPG TV🖕",
         "type": 0,
         "url": "https://epg.pw/test_channels_taiwan.txt",
@@ -2637,33 +2628,6 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-        "name": "🫵4G TV🖕",
-        "type": 0,
-        "url": "https://dpaste.org/wjSHR/raw",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }, 
-    {
-	"name": "Z88",
-	"type": 0,
-	"url": "https://files.catbox.moe/l9cafg.txt",
-        "playerType": 1,
-	"ua": "okhttp/3.15",
-	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-	"logo": "https://epg.112114.xyz/logo/{name}.png"
-    },	  
-    {
-	"name": "大街來的源",
-	"type": 0,
-	"url": "https://files.catbox.moe/1f0ei1.txt",
-        "playerType": 1,
-	"ua": "okhttp/3.15",
-	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-	"logo": "https://epg.112114.xyz/logo/{name}.png"
-    },  
     {
 	"name": "Cyber TV",
 	"type": 0,
