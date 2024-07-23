@@ -14,6 +14,14 @@
       "jar": "./lib/alisz.jar"
     },
     {
+            "key": "php2_hmezy",
+            "name": "🟢黑木耳",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/heimuer.php",
+            "quickSearch": 0,
+            "searchable": 1
+        },
+    {
     "key": "taopian",
     "name": "淘片",
     "type": 0,
