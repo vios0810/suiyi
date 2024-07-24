@@ -30,6 +30,49 @@
             "searchable": 1
     },
     {
+           "key": "文采",
+           "name": "💮文采┃秒播",
+           "type": 3,
+           "api": "csp_Jpys",
+           "jar":"https://github.com/kan31467/1/raw/main/jar/kan.jar",
+           "playerType": 2,
+           "searchable": 1,
+           "quickSearch": 1,
+           "changeable": 1
+    },
+    {
+            "key": "xp_nuiyue",
+            "name": "🍼紐約影视",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://t4.doube.eu.org/site/xp_nuiyue.json"
+    },
+    {
+            "key": "xp_olehdtv",
+            "name": "🔥歐樂影院 | 大陸要翻",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://t4.doube.eu.org/site/xp_olehdtv.json"
+    },
+    {
+            "key": "php_madou",
+            "name": "🔞麻豆",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/madou.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
+    },
+    {
     "key": "taopian",
     "name": "淘片",
     "type": 0,
@@ -2627,24 +2670,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-        "name": "🫵直播🖕",
-        "type": 0,
-        "url": "https://yang-1989.eu.org/m3u/Gather",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-        "name": "🫵🤣159169線路😍🖕",
-        "type": 0,
-        "url": "https://files.catbox.moe/wj6x04.txt",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+   
     {
         "name": "🫵🤣不錯的線路😍🖕",
         "type": 0,
