@@ -22,6 +22,14 @@
             "searchable": 1
     },
     {
+            "key": "php_huaweiba",
+            "name": "🔴華為吧",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/huaweiba.php",
+            "quickSearch": 0,
+            "searchable": 1
+    },
+    {
     "key": "taopian",
     "name": "淘片",
     "type": 0,
