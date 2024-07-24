@@ -41,26 +41,6 @@
            "changeable": 1
     },
     {
-            "key": "xp_nuiyue",
-            "name": "🍼紐約影视",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://t4.doube.eu.org/site/xp_nuiyue.json"
-    },
-    {
-            "key": "xp_olehdtv",
-            "name": "🔥歐樂影院 | 大陸要翻",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://t4.doube.eu.org/site/xp_olehdtv.json"
-    },
-    {
             "key": "php_madou",
             "name": "🔞麻豆",
             "type": 4,
@@ -2670,7 +2650,6 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-   
     {
         "name": "🫵🤣不錯的線路😍🖕",
         "type": 0,
