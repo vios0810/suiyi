@@ -2615,6 +2615,11 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
    {
+	"name": "UPLive",
+	"ua": "okhttp/5.2.0",
+	"url": "https://www.dussl.icu/Anbo_dussl.m3u"
+   },
+   {
         "name": "😂😂4gtv😁😁",
         "type": 0,
         "url": "./lib/4gtv_dussl.m3u",
