@@ -142,6 +142,19 @@ GPTV電影台 ,https://www.youtube.com/watch?v=V0eNcTH0LDo
 【高雄蓮池潭】,https://www.youtube.com/watch?v=BnPoNatG-HE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=22
 【高雄旗津海水浴場】,https://www.youtube.com/watch?v=ka7FV0sCvxQ&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=36
 【淡水漁人碼頭】,https://www.youtube.com/watch?v=xwAWSh35uuw&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=53
+民视,http://cdn.1678520.xyz/xsj.php?id=ftv
+
+民视台湾台,http://cdn.1678520.xyz/xsj.php?id=ftv-tw
+
+民视第一台,http://cdn.1678520.xyz/xsj.php?id=ftv-one
+
+纬来日本,http://cdn.1678520.xyz/xsj.php?id=videoland-japan
+
+
+
+
+
+
 
 【台灣-大馬路上來的好朋友】,#genre#
 js=https://clonglii.serv00.net/normal.js
