@@ -98,9 +98,7 @@ AXN,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszb
 东森戏剧,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv 
 TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
 无线新闻频道,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
-HOY资讯频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
-财经资讯香港,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
-财经资讯香港,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
+
 
 鴻哥精選綜藝頻道,#genre#
 緯來戲劇,tvbus://5gzBWbU1wHMXHfLAgnmPHzjgLX48Qh7MQMHqWaRaFftHT5FKJmZKrgV3tjhzC
@@ -115,9 +113,9 @@ GPTV電影台 ,https://www.youtube.com/watch?v=V0eNcTH0LDo
 台灣啟示錄 ,https://www.youtube.com/watch?v=PFeFPjqVi3g
 藍色水玲瓏 ,https://www.youtube.com/watch?v=rTcTVZBZtYs
 新玫瑰瞳鈴眼 ,https://www.youtube.com/watch?v=Zdz7g3bO8vw
+綜藝玩很大 ,https://www.youtube.com/watch?v=Qb0PT1WiDlY
 
 【音樂&白噪音】,#genre#
-【Classical Mastermind】,https://m.youtube.com/@ClassicalMastermind/streams/1
 【Jazz】,https://www.youtube.com/watch?v=PpxexjJzREI
 【LofiGirl-asian lofi radio】,https://www.youtube.com/watch?v=Na0w3Mz46GA
 【LofiGirl-lofi hip hop radio】,https://www.youtube.com/watch?v=jfKfPfyJRdk
