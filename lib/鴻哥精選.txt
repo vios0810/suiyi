@@ -136,11 +136,14 @@ GPTV電影台 ,https://www.youtube.com/watch?v=V0eNcTH0LDo
 【台灣即時風景影像】,#genre#
 【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
 【花蓮海岸-忘憂亭】,https://www.youtube.com/watch?v=Ic6hqus0tjA&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=2
-【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
-【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
-【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
-【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
-【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
+【高雄海岸_蚵寮國小】,https://www.youtube.com/watch?v=sKrqs-5Auqo&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=3
+【林邊溪_羌光橋】,https://www.youtube.com/watch?v=13C8jdbqQcI&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=4
+【烏來老街與覽勝橋】,https://www.youtube.com/watch?v=tx07sS9lCvY&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=5
+【礁溪寒沐酒店頂樓】,https://www.youtube.com/watch?v=cPh2vzrtG_w&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=6
+【高雄壽山情人觀景台】,https://www.youtube.com/watch?v=C03Itx8iSC0&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=21
+【高雄蓮池潭】,https://www.youtube.com/watch?v=BnPoNatG-HE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=22
+【高雄旗津海水浴場】,https://www.youtube.com/watch?v=ka7FV0sCvxQ&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=36
+【淡水漁人碼頭】,https://www.youtube.com/watch?v=xwAWSh35uuw&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=53
 
 【台灣-大馬路上來的好朋友】,#genre#
 js=https://clonglii.serv00.net/normal.js
