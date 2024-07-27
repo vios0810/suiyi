@@ -142,13 +142,99 @@ GPTV電影台 ,https://www.youtube.com/watch?v=V0eNcTH0LDo
 【高雄蓮池潭】,https://www.youtube.com/watch?v=BnPoNatG-HE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=22
 【高雄旗津海水浴場】,https://www.youtube.com/watch?v=ka7FV0sCvxQ&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=36
 【淡水漁人碼頭】,https://www.youtube.com/watch?v=xwAWSh35uuw&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=53
+
+【台灣xsj-o】,#genre#
 民视,http://cdn.1678520.xyz/xsj.php?id=ftv
-
 民视台湾台,http://cdn.1678520.xyz/xsj.php?id=ftv-tw
-
 民视第一台,http://cdn.1678520.xyz/xsj.php?id=ftv-one
-
 纬来日本,http://cdn.1678520.xyz/xsj.php?id=videoland-japan
+纬来综合,http://cdn.1678520.xyz/xsj.php?id=videoland
+八大综合,http://cdn.1678520.xyz/xsj.php?id=gtv28
+八大第一,http://cdn.1678520.xyz/xsj.php?id=gtv27
+TVBS 精采台,http://cdn.1678520.xyz/xsj.php?id=tvbs-jc
+TVBS 欢乐台,http://cdn.1678520.xyz/xsj.php?id=tvbs-huanle
+TVBS Asia,http://cdn.1678520.xyz/xsj.php?id=tvbs-asia
+三立台湾台,http://cdn.1678520.xyz/xsj.php?id=settv-taiwan
+三立综合台,http://cdn.1678520.xyz/xsj.php?id=settv-zonghe
+台视,http://cdn.1678520.xyz/xsj.php?id=ttv
+东森超视,http://cdn.1678520.xyz/xsj.php?id=ebc-super
+东森综合台,http://cdn.1678520.xyz/xsj.php?id=ebc-ettv
+中视,http://cdn.1678520.xyz/xsj.php?id=ctv
+中视菁采台,http://cdn.1678520.xyz/xsj.php?id=bravo
+中天亚洲,http://cdn.1678520.xyz/xsj.php?id=cti-asia
+中天综合,http://cdn.1678520.xyz/xsj.php?id=ctitv36
+华视,http://cdn.1678520.xyz/xsj.php?id=cts
+LiveABC 互动英语频道,http://cdn.1678520.xyz/xsj.php?id=liveabc
+好消息,http://cdn.1678520.xyz/xsj.php?id=goodtv
+KLT-靖天国际台,http://cdn.1678520.xyz/xsj.php?id=jtgj
+ELTA综合台,http://cdn.1678520.xyz/xsj.php?id=elta-zonghe
+公视,http://cdn.1678520.xyz/xsj.php?id=pts
+公视3台,http://cdn.1678520.xyz/xsj.php?id=pts-3
+公视台语台,http://cdn.1678520.xyz/xsj.php?id=pts-ty
+靖天综合台,http://cdn.1678520.xyz/xsj.php?id=jtzh
+靖天日本台,http://cdn.1678520.xyz/xsj.php?id=jtrb
+客家电视台,http://cdn.1678520.xyz/xsj.php?id=hakkatv
+大爱一台,http://cdn.1678520.xyz/xsj.php?id=daai1
+大爱二台,http://cdn.1678520.xyz/xsj.php?id=daai2
+ARIRANG 阿里郎频道,http://cdn.1678520.xyz/xsj.php?id=arirang
+中天新闻,http://cdn.1678520.xyz/xsj.php?id=cti-news
+TVBS 新闻台,http://cdn.1678520.xyz/xsj.php?id=tvbs-news
+TVBS HD,http://cdn.1678520.xyz/xsj.php?id=tvbs-hd
+东森新闻,http://cdn.1678520.xyz/xsj.php?id=ebc-news
+东森财经新闻,http://cdn.1678520.xyz/xsj.php?id=ebc-finance
+寰宇新闻台,http://cdn.1678520.xyz/xsj.php?id=global-news
+寰宇财经台,http://cdn.1678520.xyz/xsj.php?id=global-finance
+寰宇新闻台湾台,http://cdn.1678520.xyz/xsj.php?id=global-news-tw
+壹新闻 HD,http://cdn.1678520.xyz/xsj.php?id=nexttv
+三立新闻,http://cdn.1678520.xyz/xsj.php?id=settv-news
+三立iNews,http://cdn.1678520.xyz/xsj.php?id=settv-inews
+中视新闻,http://cdn.1678520.xyz/xsj.php?id=ctv-news
+非凡新闻,http://cdn.1678520.xyz/xsj.php?id=unique-business-news
+年代新闻,http://cdn.1678520.xyz/xsj.php?id=era-news
+民视新闻台,http://cdn.1678520.xyz/xsj.php?id=ftv-news
+台视新闻,http://cdn.1678520.xyz/xsj.php?id=ttv-news
+镜电视新闻台,http://cdn.1678520.xyz/xsj.php?id=mnews
+华视新闻,http://cdn.1678520.xyz/xsj.php?id=cts-news
+半岛国际新闻台,http://cdn.1678520.xyz/xsj.php?id=aljazeera
+SBN 全球财经台,http://cdn.1678520.xyz/xsj.php?id=sbn
+靖天资讯台,http://cdn.1678520.xyz/xsj.php?id=jtzx
+霹雳台湾台,http://cdn.1678520.xyz/xsj.php?id=pilitv
+纬来电影台,http://cdn.1678520.xyz/xsj.php?id=videoland-movie
+纬来戏剧,http://cdn.1678520.xyz/xsj.php?id=videoland-drama
+TVBS综艺台,http://cdn.1678520.xyz/xsj.php?id=tvbs-zongyi
+TVBS台剧台,http://cdn.1678520.xyz/xsj.php?id=tvbs-taiju
+龙祥电影台,http://cdn.1678520.xyz/xsj.php?id=lstime
+龙华电影台,http://cdn.1678520.xyz/xsj.php?id=ltv-movies
+龙华戏剧台,http://cdn.1678520.xyz/xsj.php?id=ltv-xiju
+龙华日韩台,http://cdn.1678520.xyz/xsj.php?id=ltv-rihan
+东森电影,http://cdn.1678520.xyz/xsj.php?id=ebc-movie
+东森戏剧,http://cdn.1678520.xyz/xsj.php?id=ebc-drama
+东森洋片,http://cdn.1678520.xyz/xsj.php?id=ebc-emovie
+八大精彩台,http://cdn.1678520.xyz/xsj.php?id=gtv-jct
+八大戏剧,http://cdn.1678520.xyz/xsj.php?id=gtv-41
+八大娱乐,http://cdn.1678520.xyz/xsj.php?id=gtv-86
+八大综艺,http://cdn.1678520.xyz/xsj.php?id=grt
+采昌影剧台,http://cdn.1678520.xyz/xsj.php?id=caichang
+美亚电影台,http://cdn.1678520.xyz/xsj.php?id=meiah-movies
+猪哥亮歌厅秀,http://cdn.1678520.xyz/xsj.php?id=zglgtx
+民视综艺,http://cdn.1678520.xyz/xsj.php?id=ftv-reality
+民视影剧,http://cdn.1678520.xyz/xsj.php?id=ftv-drama
+三立都会台,http://cdn.1678520.xyz/xsj.php?id=settv-city
+三立戏剧台,http://cdn.1678520.xyz/xsj.php?id=settv-drama
+中视经典台,http://cdn.1678520.xyz/xsj.php?id=ctv-classic
+中天娱乐,http://cdn.1678520.xyz/xsj.php?id=cti-yule
+靖洋戏剧台,http://cdn.1678520.xyz/xsj.php?id=jyxj
+靖天映画,http://cdn.1678520.xyz/xsj.php?id=jtyh
+靖天电影台,http://cdn.1678520.xyz/xsj.php?id=jtdy
+靖天戏剧台,http://cdn.1678520.xyz/xsj.php?id=jtxjt
+韩国娱乐台 KMTV,http://cdn.1678520.xyz/xsj.php?id=kmtv
+公视戏剧,http://cdn.1678520.xyz/xsj.php?id=gsxj
+影迷数位纪实台,http://cdn.1678520.xyz/xsj.php?id=ymswjst
+影迷数字电影台,http://cdn.1678520.xyz/xsj.php?id=fans-cinema
+视纳华仁纪实频道,http://cdn.1678520.xyz/xsj.php?id=cnex
+MTV Live HD 频道,http://cdn.1678520.xyz/xsj.php?id=mtv
+ELTA 娱乐台,http://cdn.1678520.xyz/xsj.php?id=elta-ylt
+
 
 
 
