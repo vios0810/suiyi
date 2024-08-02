@@ -2652,7 +2652,15 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    
+    {
+        "name": "😂 TV🖕",
+        "type": 0,
+        "url": "https://files.catbox.moe/scgkjz.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
 	"name": "123321",
 	"type": 0,
