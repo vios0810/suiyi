@@ -14,6 +14,18 @@
       "jar": "./lib/alisz.jar"
     },
     {
+            "key": "Aid",
+            "name": "🧰急救知识┃公众号【晨瑞黑科】",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
+    {
             "key": "php2_hmezy",
             "name": "🟢黑木耳",
             "type": 4,
@@ -2626,20 +2638,6 @@
   ],
   "lives": [
    {
-        "name": "😂😂 UPLIVE😁😁",
-        "type": 0,
-        "url": "https://fm1077.serv00.net/anbo/",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-   },
-   {
-	"name": "UPLive",
-	"ua": "okhttp/5.2.0",
-	"url": "https://www.dussl.icu/Anbo_dussl.m3u"
-   },
-   {
         "name": "😂😂4gtv😁😁",
         "type": 0,
         "url": "./lib/4gtv_dussl.m3u",
@@ -2649,33 +2647,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
    {
-        "name": "iptv6推荐直播①",
-        "type": 0,
-        "url": "https://d.kstore.space/download/2960/dxwoai/推荐直播.m3u",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-   },
-   {
-        "name": "iptv6推荐直播②",
-        "type": 0,
-        "url": "https://d.kstore.space/download/2960/dxwoai/野火565.txt",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-        "name": "iptv6推荐直播③",
-        "type": 0,
-        "url": "https://d.kstore.space/download/2960/dxwoai/野火.txt",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
         "name": "🫵🤣不錯的線路😍🖕",
         "type": 0,
         "url": "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
@@ -2684,7 +2655,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-   {
+    {
         "name": "🫵EPG TV🖕",
         "type": 0,
         "url": "https://epg.pw/test_channels_taiwan.txt",
@@ -2693,15 +2664,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-	"name": "Cyber TV",
-	"type": 0,
-	"url": "https://files.catbox.moe/4jrtg7.txt",
-        "playerType": 1,
-	"ua": "okhttp/3.15",
-	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-	"logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    
     {
 	"name": "123321",
 	"type": 0,
@@ -2742,46 +2705,20 @@
 	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
-   
-    {
+   {
 	"name":"🖕18+18=36🖕",
 	"type":0,
 	"url":"https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
 	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name":"🐵OuHua Live",
-      "url":"http://oy.oyxx-1.eu.org/p3p.php",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-     },
+
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
 {"name":"YouTube","type":0,"url":"https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"四千加","type":0,"url":"https://qu.ax/kBip.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"AK47","type":0,"url":"https://qu.ax/HtMB.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
 {"name":"玩偶姐姐全套","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u","epg":"http://epg.hklive.tv","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
 {"name":"蜂蜜18+","type":0,"url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
 {"name":"三哥偷蜂蜜大屌18+","type":0,"url":"https://qu.ax/fMNM.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"type":0,"pass":true,"name":"影子TV","url":"https://raw.githubusercontent.com/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1},
-
 {"name":"垃圾堆成山","type":0,"url":"https://qu.ax/ktVO.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"武哥成人点播","type":0,"url":"https://qu.ax/CgvU.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"┃龙龙🐉┃直播┃wudi┃","type":0,"url":"https://raw.githubusercontent.com/549835541/tv/main/v.txt","epg":""},
-
-{"name":"┃龙龙🐉┃直播┃TV┃","type":0,"url":"https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?inline=false","epg":""},
-
-{"name":"┃龙龙🐉┃直播XIAOHU┃","type":0,"url":"https://raw.githubusercontent.com/549835541/tv/main/XIAOHU.txt","epg":""},
-
 {"name":"网友自用","type":0,"url":"https://raw.githubusercontent.com/xiaolinshao/TVBox/main/自用直播油管源.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {
       "name": "live",
