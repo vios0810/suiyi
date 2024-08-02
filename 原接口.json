@@ -2700,7 +2700,6 @@
 	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
-
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YouTube","type":0,"url":"https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"玩偶姐姐全套","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u","epg":"http://epg.hklive.tv","logo":"https://epg.112114.xyz/logo/{name}.png"},
