@@ -14,43 +14,6 @@
       "jar": "./lib/alisz.jar"
     },
     {
-      "key": "苹果",
-      "name": "苹果┃1080P┃公众号【晨瑞黑科】",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "玩偶",
-      "name": "👑玩偶哥哥4K┃公众号【晨瑞黑科】",
-      "type": 3,
-      "api": "csp_WoGG",
-      "jar": "./chenruihe.jar;md5;2C656EA3596DF85712AB9839689AED16",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
-      }
-    },
-    {
-            "key": "Aid",
-            "name": "🧰急救知识┃公众号【晨瑞黑科】",
-            "type": 3,
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            }
-    {
             "key": "php2_hmezy",
             "name": "🟢黑木耳",
             "type": 4,
