@@ -14,6 +14,15 @@
       "jar": "./lib/alisz.jar"
     },
     {
+      "key": "苹果",
+      "name": "苹果┃1080P┃公众号【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "玩偶",
       "name": "👑玩偶哥哥4K┃公众号【晨瑞黑科】",
       "type": 3,
