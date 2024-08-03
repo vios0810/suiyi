@@ -14,6 +14,12 @@
       "jar": "./lib/alisz.jar"
     },
     {
+            "name": "ETH(JS)",
+            "api": "https://tang.hz.cz/js/ethtv.js",
+            "type": 3,
+            "ua": "okhttp/4.12.0"
+        },
+    {
             "key": "php2_hmezy",
             "name": "🟢黑木耳",
             "type": 4,
