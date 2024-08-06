@@ -6384,3 +6384,38 @@ RK Prime,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6248/index.m3u8
 RK TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6249/index.m3u8
 Rough Adult TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6250/index.m3u8
 Russian Adult TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6251/index.m3u8
+
+
+
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts 
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts 
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts 
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts 
+绶締楂旇偛鍙�,http://125.227.210.55:8155/VideoInput/play.ts
+馃埐椹氳壏鍙�,http://125.227.210.55:8156/VideoInput/play.ts 
+馃崒棣欒晧鍙�,http://125.227.210.55:8159/VideoInput/play.ts 
+涓夌珛鍙扮仯鍙�,http://125.227.210.55:8160/VideoInput/play.ts 
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts 
+涓夌珛鏂拌仦,http://125.227.210.55:8162/VideoInput/play.ts 
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts 
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts 
+CN鍗￠€�,http://125.227.210.55:8167/VideoInput/play.ts 
+JTV,http://125.227.210.55:8169/VideoInput/play.ts
+TVRI,http://125.227.210.55:8172/VideoInput/play.ts
+TVRI2,http://125.227.210.55:8173/VideoInput/play.ts 
+TVBS鏂拌仦鍙�,http://125.227.210.55:8186/VideoInput/play.ts 
+椋熷皻鐜╁,http://125.227.210.55:8187/VideoInput/play.ts 
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts 
+馃憛濂ヨ馃敒3,http://125.227.210.55:8917/VideoInput/play.ts 
+馃挅TV5鍙�,http://125.227.210.55:15533/VideoInput/play.ts 
+馃挅YTN鍙�,http://125.227.210.55:17478/VideoInput/play.ts 
+馃挅NHK JAPAN鍙�,http://125.227.210.55:35802/VideoInput/play.ts 
+馃挅PBS鍙�,http://125.227.210.55:36950/VideoInput/play.ts 
+馃挅HD鍙梆煃�,http://125.227.210.55:39004/VideoInput/play.ts 
+馃挅DW鍙�,http://125.227.210.55:42534/VideoInput/play.ts 
+馃挅BBC鍙�,http://125.227.210.55:44350/VideoInput/play.ts 
+馃挅KOREA鍙�,http://125.227.210.55:48553/VideoInput/play.ts 
+馃挅Mainu鍙�,http://125.227.210.55:51359/VideoInput/play.ts 
+馃敭濂ヨ2,http://125.227.210.55:55643/VideoInput/play.ts 
+馃挅NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts 
+馃挅Sex 鉂孏irl,http://125.227.210.55:62698/VideoInput/play.ts
