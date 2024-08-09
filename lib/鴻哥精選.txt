@@ -1924,17 +1924,7 @@ CHC家庭ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380760
 
 
 
-午夜频道,#genre#
-性教育https://cf005.paopao.video:443/D8015221C25EDF5504A00073FBDE053F5590C804
-日本映画専門,http://103.197.59.106:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
-日本映画専門,http://142.171.3.10:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
-日本映画専門,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-东映チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-动物世界,http://v2.catcast.tv/content/40546/index.m3u8
-チャンネルNECOhttps://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
-Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
-电影18+https://autopilot.catcast.tv/content/40381/index.m3u8?cur=tva.org.ua&key=3i277?
-电影18+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=c2f0f00b789b30224cb2d13ef93cc79f&server=v2.catcast.tv
+
 🔞频道1_6835,#genre#
 Шокирующее,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6229/index.m3u8
 центральное,http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/20090/manifest.m3u8
