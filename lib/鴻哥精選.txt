@@ -1925,7 +1925,7 @@ CHC家庭ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380760
 
 
 
-CH1_6835,#genre#
+CH1,#genre#
 Шокирующее,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6229/index.m3u8
 центральное,http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/20090/manifest.m3u8
 japan,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
@@ -2071,7 +2071,6 @@ BCU Charm,http://v5yxxgnc.ottclub.xyz/iptv/SKRMAACV4QDM4F/18053/index.m3u8
 Playboy Plus,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6242/index.m3u8
 Кино +18,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/18075/index.m3u8
 Кино +18,http://cdn.klimedia.space/lb/kino1plus18/index.m3u8?token=klimedia.space:YWxka2ZqYWZqOmFsZGtmamFmag==
-
 BABES,http://cord-cutter.net:8080/7MArer2/382185/159959
 BRAZZERS,http://cord-cutter.net:8080/7MArer2/382185/159966
 supertv,http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/276
@@ -2086,7 +2085,7 @@ FAKE TAXI,http://206.212.244.71:8080/YT6bvC/100111/159980
 BABES,http://206.212.244.71:8080/YT6bvC/100111/159959
 A GIRL KNOWS,http://206.212.244.71:8080/YT6bvC/100111/159953
 MODEL MEDIA ASIA,http://206.212.244.71:8080/YT6bvC/100111/160011
-🔞频道2_6835,#genre#
+CH2,#genre#
 japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
 box,http://206.212.244.71:8080/4wVQA7/625159/159951
 legal,http://162.19.243.184/716/mono.m3u8?token=M4f082ab4c
@@ -2398,7 +2397,7 @@ TRANS ANGELS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@20
  MY PERVY FAMILY,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160020
  MY TINY WISH,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160021
  MYLF,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160022
-🔞频道3_6835,#genre#
+CH3,#genre#
 fhd,http://bccdn.xyz/live/5026071354pw/1576797021/83248.m3u8
 Три Ангела,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6259/manifest.m3u8
 彩虹Khttp://u6v.cn/6p6iQd
@@ -2579,7 +2578,7 @@ PORNBOX 97,http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK
 PORNBOX 98,http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/664
 PORNBOX 99,http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/665
 PORNBOX 100,http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/666
-🔞频道4_6835,#genre#
+CH4,#genre#
 以下频道需翻墙,https://pan.rvxy.com/view.php/de04428d55865872266700f804d2cd83.mp4
 http://104.194.10.200:25461/live/574667541314/128832235798/1.m3u8?token=SRVZVERZGl8UVgZRVwwGVFEHUgQDCFMDVVIFAFBVDQVQD1AHBAQNVgESGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcOCBpJFERfWVMbXwAbEkRbBhpcEAYABQ5RFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwcLWhAbE1ZYRFYRREkUDhRsNhIbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQABAgQBE0U=
 潘多拉,http://104.194.10.200:25461/live/574667541314/128832235798/3.m3u8?token=SRVZVERZGl8UVgZRVwwGVFEHUgQDCFMDVVIFAFBVDQVQD1AHBAQNVgESGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcOCBpJFERfWVMbXwAbEkRbBhpcEAYABQ5RFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwcLWhAbE1ZYRFYRREkUDhRsNhIbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQABAgQBE0U=
@@ -2617,7 +2616,7 @@ PORNBOX: NAUGHTY AMERICA,http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oQNHi
 PLAYBOY SD,http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oYpeZU1BDUUyWNtOSnXtdNiLQL776qd43knXbDTTHfX2/ts
 SEXTREME_LA5,http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oYpeZU1BDUUyWNtOSnXtdNhKpX39GWMJgo0OcDoYVLOK/ts
 VENUS_LA6,http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oYpeZU1BDUUyWNtOSnXtdNht-H1ZT15SMfiDavuRmk9p/ts
-🔞频道5_6835,#genre#
+CH5,#genre#
 Eromania 4K,http://3e0duzpk.tvclub.xyz/iptv/AYRNQFUZCVSW4M/10049/index.m3u8
 Playboy,http://3e0duzpk.tvclub.xyz/iptv/AYRNQFUZCVSW4M/527/index.m3u8
 Русская Ночь,http://3e0duzpk.tvclub.xyz/iptv/AYRNQFUZCVSW4M/147/index.m3u8
@@ -3004,7 +3003,7 @@ VIP147:ASIAN SEX DIARY,http://31.42.185.54:8880/hdtv30a6120c16db/39024972/60684
 VIP148:BENEFIT MONKEY,http://31.42.185.54:8880/hdtv30a6120c16db/39024972/60685
 VIP149:BLACK GFS,http://31.42.185.54:8880/hdtv30a6120c16db/39024972/60686
 VIP150:Playboy Europe,http://31.42.185.54:8880/hdtv30a6120c16db/39024972/60687
-🔞频道6_6835,#genre#
+CH6,#genre#
 VF Граиндхаус,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/14158/index.m3u8
 Playboy,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/527/index.m3u8
 Eromania 4K,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/10049/index.m3u8
@@ -3108,7 +3107,7 @@ RK Prime,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6248/index.m3u8
 RK TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6249/index.m3u8
 Rough Adult TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6250/index.m3u8
 Russian Adult TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6251/index.m3u8
-🔞港台情色_6835,#genre#
+CH7,#genre#
 东北往事之黑道风云二十年11,https://vip.ffzy-online4.com/20230404/18386_b159ee99/2000k/hls/mixed.m3u8
 东北往事之黑道风云二十年17,https://vip.lz-cdn16.com/20230731/33145_85f5b5e4/2000k/hls/mixed.m3u8
 红楼18春,https://cf005.paopao.video:443/D29E30B98E475FA7D7F2BAFDB08B2300A91B9701
@@ -3137,7 +3136,7 @@ Russian Adult TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6251/index.m3u8
 留住真情,https://ckzy1com.com/20230106/JDeeat2r/1000kb/hls/index.m3u8
 武则天729,https://ckzy1com.com/20221217/r8OKLHTx/index.m3u8
 茶园春色,https://play1.sewobofang.4,com/20220604/YyPZgdHm/index.m3u8
-🔞日韩影片_6835,#genre#
+CH8,#genre#
 carib363西川,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
 Kpop Girl Does Porn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8 
 コスプレアイドルに,https://cf005.paopao.video:443/9C3C292CD89D64F2E8A14717A50881B08E7105B9
@@ -3295,7 +3294,7 @@ heyzo1031,https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
-🔞欧美影片_6835,#genre#
+CH9,#genre#
 Losing Kayden,https://f005.paopao.video:443/AE01C46A719560D30C8FFF53E7738F703D6C489C
 Beautiful Cocksucker - Veronika Charm,http://12204.vod.adultiptv.net/ph59e4632689f28/play.m3u8
 Она предпочитает постарше,https://video2.tizam.cc/files/2239187/molodoy__18_let__opyt.mp4
