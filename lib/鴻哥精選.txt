@@ -10,7 +10,7 @@ TVBS NEWS ,https://www.youtube.com/watch?v=m_dhMSvUCIc
 鴻哥精選綜藝頻道,#genre#
 緯來戲劇,tvbus://5gzBWbU1wHMXHfLAgnmPHzjgLX48Qh7MQMHqWaRaFftHT5FKJmZKrgV3tjhzC
 緯來育樂,tvbus://5Pr6ixRQG7ppS3rqc4n84JwF7JAogqi28NzzfbUsZFa6m6RaRoKWYEFQdPz1H
-GPTV電影台 ,https://www.youtube.com/watch?v=V0eNcTH0LDo
+GPTV電影台 ,https://www.youtube.com/watch?v=-tbz9-e0n_o
 綜藝大熱門 ,https://www.youtube.com/watch?v=-L9cBf3oAO0
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
@@ -24,16 +24,15 @@ GPTV電影台 ,https://www.youtube.com/watch?v=V0eNcTH0LDo
 
 
 【音樂&白噪音】,#genre#
-【Jazz】,https://www.youtube.com/watch?v=PpxexjJzREI
+【Jazz】,https://www.youtube.com/watch?v=ux6lvHpLUpo
 【LofiGirl-asian lofi radio】,https://www.youtube.com/watch?v=Na0w3Mz46GA
 【LofiGirl-lofi hip hop radio】,https://www.youtube.com/watch?v=jfKfPfyJRdk
-【Live Music Radio】,https://m.youtube.com/@LiveMusicRadio/streams/1
-【Diamond Music】,https://www.youtube.com/watch?v=EPXXYlY4uE4
+【Live Music Radio】,https://www.youtube.com/watch?v=8M0AvPvPg0A
+【2024 年熱門歌曲】,https://www.youtube.com/watch?v=uNd5kvrGHjk
 【ts_bThe Good Life radio】,https://www.youtube.com/watch?v=36YnV9STBqc
 【Starbucks Bossa Coffee】,https://www.youtube.com/watch?v=9hqfOZrNcmo
-【熱歌 Playlist】,https://www.youtube.com/watch?v=o5eSBN-DN5Y
-【抖音歌曲 2024】,https://www.youtube.com/watch?v=_U-8GX-Ah-c
-【吉卜力鋼琴音樂】,https://www.youtube.com/watch?v=dQG3_rX39Xg
+【Country Music】,https://www.youtube.com/watch?v=xl70asNiweE
+【抖音歌曲 2024】,https://www.youtube.com/watch?v=MIUtBuoVVf8
 【avex J-POP】,https://www.youtube.com/watch?v=tr77RbnfYIU
 【滾石現場-經典神曲】,https://www.youtube.com/watch?v=oUVIfvx0dKE
 【滾石現場-重回演唱會現場】,https://www.youtube.com/watch?v=7nXfHVZlmfA
@@ -1920,35 +1919,6 @@ CHC家庭ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380760
 江西龙虎山山涧栈道,https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-
-🚛👉SP,#genre#
-彩虹e台,mitv://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
-彩虹电影台,mitv://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
-LOOK TV,mitv://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
-惊艳成人电影台,mitv://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
-香蕉台,mitv://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
-松视1台,mitv://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
-松视2台,mitv://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
-松视3台,mitv://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
-HAPPY,mitv://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
-JStar极限台,mitv://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
-K,mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
-PLAYBOY,mitv://generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
-EXXXOTICA HD orig,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/9346/index.m3u8
-Русская ночь orig,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/9344/index.m3u8
-Brazzers TV Europe,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/910/index.m3u8
-Redlight HD orig,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/9066/index.m3u8
-Hustler HD orig,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/9065/index.m3u8
-Dorcel HD orig,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/9064/index.m3u8
-Barely legal,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/871/index.m3u8
-SuperOne HD,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/6298/index.m3u8
-Erox HD,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/6296/index.m3u8
-Erotic 8,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/6295/index.m3u8
-Erotic 7,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/6294/index.m3u8
-Erotic 6,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/6293/index.m3u8
-Erotic 4,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/6292/index.m3u8
-Erotic 3,http://a0bn5xro.rostelekom.xyz/iptv/UPKY3Y8BF6KNX8/6291/index.m3u8
 
 
 
