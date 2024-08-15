@@ -14,6 +14,7 @@
       "jar": "./lib/alisz.jar"
     },
     {
+{
 
 
       "key": "YGP",
@@ -35,6 +36,102 @@
 
 
       "changeable": 0
+
+
+    },
+
+
+    {
+
+
+      "key": "短剧",
+
+
+      "name": "🌈上头┃短剧",
+
+
+      "type": 3,
+
+
+      "api": "csp_Djtt",
+
+
+      "searchable": 1,
+
+
+      "quickSearch": 1,
+
+
+      "changeable": 1
+
+
+    },
+
+
+    {
+
+
+      "key": "酷看",
+
+
+      "name": "💡酷看┃秒播",
+
+
+      "type": 3,
+
+
+      "api": "csp_Kkys",
+
+
+      "timeout": 15,
+
+
+      "searchable": 1,
+
+
+      "quickSearch": 1,
+
+
+      "changeable": 1
+
+
+    },
+
+
+    {
+
+
+      "key": "Lib",
+
+
+      "name": "🌟立播┃秒播",
+
+
+      "type": 3,
+
+
+      "api": "csp_Libvio",
+
+
+      "searchable": 1,
+
+
+      "quickSearch": 1,
+
+
+      "changeable": 1,
+
+
+      "ext": {
+
+
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+
+
+        "from": "4k|auto"
+
+
+      }
 
 
     },
