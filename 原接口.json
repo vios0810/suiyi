@@ -14,6 +14,31 @@
       "jar": "./lib/alisz.jar"
     },
     {
+
+
+      "key": "YGP",
+
+
+      "name": "🚀叨观荐影┃新片",
+
+
+      "type": 3,
+
+
+      "api": "csp_YGP",
+
+
+      "searchable": 0,
+
+
+      "quickSearch": 0,
+
+
+      "changeable": 0
+
+
+    },
+    {
             "name": "ETH(JS)",
             "api": "https://tang.hz.cz/js/ethtv.js",
             "type": 3,
