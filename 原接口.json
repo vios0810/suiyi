@@ -13,6 +13,15 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
       "jar": "./lib/alisz.jar"
     },
+    {    
+            "key": "实验直播3",
+            "name": "实验直播3",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/2241.php",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "1,2,3"
+        },
     {
       "key":"php2_del_ads_hmezy",
       "name":"🫐 黑木耳(无广)",
