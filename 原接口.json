@@ -2662,9 +2662,9 @@
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-	"name": "鴻哥精選1",
+	"name": "鴻哥製作",
 	"type": 0,
-	"url": "./lib/鴻哥精選.txt",
+	"url": "./lib/鴻哥製作.txt",
         "playerType": 1,
 	"ua": "okhttp/3.15",
 	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
