@@ -2626,9 +2626,9 @@
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-        "name": "😂😂直播😁😁",
+        "name": "😂😂鴻哥製作😁😁",
         "type": 0,
-        "url": "http://zhangqun1818.serv00.net/zh/2241.php",
+        "url": "./lib/鴻哥製作 .txt",
         "playerType": 1,
         "ua": "okhttp/3.15",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
