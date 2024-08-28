@@ -2686,15 +2686,6 @@
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
-        "name": "😂😂源線路😁😁",
-        "type": 0,
-        "url": "./lib/源.txt",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-   },
-   {
 	"name":"🖕18+18=36🖕",
 	"type":0,
 	"url":"https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
