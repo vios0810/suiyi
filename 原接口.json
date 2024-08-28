@@ -2732,7 +2732,7 @@
       "url": "./lib/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
     {
         "name": "😂😂鴻哥精製😁😁",
         "type": 0,
@@ -2741,6 +2741,6 @@
         "ua": "okhttp/3.15",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
-   },
+   }
   ]
  }
