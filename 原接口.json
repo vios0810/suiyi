@@ -2662,7 +2662,7 @@
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-	"name": "鴻哥精選",
+	"name": "鴻哥精選1",
 	"type": 0,
 	"url": "./lib/鴻哥精選.txt",
         "playerType": 1,
