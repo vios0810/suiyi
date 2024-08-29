@@ -14,6 +14,36 @@
       "jar": "./lib/alisz.jar"
     },
     {
+            "key": "T4-heimuer",
+            "name": "黑木耳(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=c0b5e05d",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "T4-欧乐",
+            "name": "欧乐(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/olelive?token=c0b5e05d",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/ub18?token=c0b5e05d",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+    {
       "key":"php2_del_ads_hmezy",
       "name":"🫐 黑木耳(无广)",
       "type":4,
@@ -2607,6 +2637,18 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+            "name": "安博",
+            "url": "https://tang.hz.cz/zb/anbo?token=c0b5e05d",
+            "ua": "okhttp/4.12.0"
+        },
+        {
+            "name": "ETH(JS)",
+            "api": "https://tang.hz.cz/js/ethtv.js",
+            "type": 3,
+            "ua": "okhttp/4.12.0",
+            "ext": "c0b5e05d"
+        },
     {
         "name": "😂😂4gtv😁😁",
         "type": 0,
