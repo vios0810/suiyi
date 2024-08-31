@@ -14,6 +14,13 @@
       "jar": "./lib/alisz.jar"
     },
     {
+      "key": "drpy_js_斗鱼直播",
+      "name": "🐬TH┃直播斗鱼",
+      "type": 3,
+      "api": "./JS/lib/drpy2.min.js",
+      "ext": "./JS/js/斗鱼直播.js"
+    },
+    {
             "key": "T4-heimuer",
             "name": "黑木耳(T4)",
             "type": 4,
