@@ -43,27 +43,7 @@
             "filterable": 1,
             "changeable": 0
         },
-    {
-      "key":"php2_del_ads_hmezy",
-      "name":"🫐 黑木耳(无广)",
-      "type":4,
-      "api":"https://t4.doube.eu.org/app/index.php?site=webheimuer",
-      "searchable":1,
-      "quickSearch":0,
-      "filterable":0,
-      "changeable":0
-   },
-   {
-        "key":"php_huaweiba",
-        "name":"🍑 华为吧",
-       "type":4,
-       "api":"https://t4.doube.eu.org/app/index.php?site=webhuaweiba",
-       "searchable":1,
-       "quickSearch":0,
-       "filterable":0,
-       "changeable":0
-    },
-
+    
     {
             "key": "黑木耳克隆",
             "name": "黑木耳克隆",
