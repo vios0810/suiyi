@@ -10,39 +10,43 @@ TVBS NEWS ,https://www.youtube.com/watch?v=m_dhMSvUCIc
 🔰鴻哥精選綜藝頻道,#genre#
 緯來戲劇,tvbus://5gzBWbU1wHMXHfLAgnmPHzjgLX48Qh7MQMHqWaRaFftHT5FKJmZKrgV3tjhzC
 緯來育樂,tvbus://5Pr6ixRQG7ppS3rqc4n84JwF7JAogqi28NzzfbUsZFa6m6RaRoKWYEFQdPz1H
-GPTV電影台 ,https://www.youtube.com/watch?v=-tbz9-e0n_o
+GPTV電影台 ,https://www.youtube.com/watch?v=oCvH-2n2E28
 綜藝大熱門 ,https://www.youtube.com/watch?v=-L9cBf3oAO0
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
 現代嘉慶君 ,https://www.youtube.com/watch?v=IsFtLpSuf_g
 沒玩沒了 ,https://www.youtube.com/watch?v=HGzIAC5pWr4
-戲說台灣 ,https://www.youtube.com/watch?v=vj0R-txvAtE
+綜藝玩很大 ,https://www.youtube.com/watch?v=62SgsYu_tSE
 天才衝衝衝 ,https://www.youtube.com/watch?v=F77-i0pnTt0
 台灣啟示錄 ,https://www.youtube.com/watch?v=PFeFPjqVi3g
 藍色水玲瓏 ,https://www.youtube.com/watch?v=rTcTVZBZtYs
 新玫瑰瞳鈴眼 ,https://www.youtube.com/watch?v=Zdz7g3bO8vw
+《我們這一家》 ,https://www.youtube.com/watch?v=UK81GCw1KE8
 
 
 🔰鴻哥精選音樂頻道,#genre#
-【Jazz】,https://www.youtube.com/watch?v=ux6lvHpLUpo
+【Jazz】,https://www.youtube.com/watch?v=Dx5qFachd3A
+【Eight FM】,https://www.youtube.com/watch?v=o1ipHJUfFTM
 【LofiGirl-asian lofi radio】,https://www.youtube.com/watch?v=Na0w3Mz46GA
 【LofiGirl-lofi hip hop radio】,https://www.youtube.com/watch?v=jfKfPfyJRdk
 【Live Music Radio】,https://www.youtube.com/watch?v=8M0AvPvPg0A
 【2024 年熱門歌曲】,https://www.youtube.com/watch?v=uNd5kvrGHjk
 【ts_bThe Good Life radio】,https://www.youtube.com/watch?v=36YnV9STBqc
 【Starbucks Bossa Coffee】,https://www.youtube.com/watch?v=9hqfOZrNcmo
-【Country Music】,https://www.youtube.com/watch?v=xl70asNiweE
-【抖音歌曲 2024】,https://www.youtube.com/watch?v=MIUtBuoVVf8
+【波薩諾瓦音樂】,https://www.youtube.com/watch?v=35kwlY_RR08
+【抖音歌曲 2024】,https://www.youtube.com/watch?v=A-N6VG4f5YI
 【avex J-POP】,https://www.youtube.com/watch?v=tr77RbnfYIU
-【滾石現場-經典神曲】,https://www.youtube.com/watch?v=oUVIfvx0dKE
+【滾石現場-經典神曲】,https://www.youtube.com/watch?v=v6L8lUz1WyY
 【粵語歌曲1】,https://www.youtube.com/watch?v=nkrCq5SurdA
+【🔴 LIVE! 廣東熱播24小時】,https://www.youtube.com/watch?v=p7SIk-Q5CNI
 【粵語歌曲2】,https://www.youtube.com/live/mwQYzm2nnLQ
-【KKBOX排行榜歌曲】,https://www.youtube.com/watch?v=XMtCbu6va_8
+【粵語歌曲3】,https://www.youtube.com/watch?v=8S3l4GS6JAI
 【KKBOX華語單曲排行週榜】,https://www.youtube.com/live/ZadWtMrj614
+【抖音歌曲】,https://www.youtube.com/watch?v=hSzt7cJOT80
 
 【台灣即時風景影像】,#genre#
 【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
-【花蓮海岸-忘憂亭】,https://www.youtube.com/watch?v=Ic6hqus0tjA&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=2
+【花蓮海岸-忘憂亭】,https://www.youtube.com/watch?v=Ic6hqus0tjA
 【高雄海岸_蚵寮國小】,https://www.youtube.com/watch?v=sKrqs-5Auqo&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=3
 【林邊溪_羌光橋】,https://www.youtube.com/watch?v=13C8jdbqQcI&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=4
 【烏來老街與覽勝橋】,https://www.youtube.com/watch?v=tx07sS9lCvY&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=5
@@ -51,6 +55,7 @@ GPTV電影台 ,https://www.youtube.com/watch?v=-tbz9-e0n_o
 【高雄蓮池潭】,https://www.youtube.com/watch?v=BnPoNatG-HE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=22
 【高雄旗津海水浴場】,https://www.youtube.com/watch?v=ka7FV0sCvxQ&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=36
 【淡水漁人碼頭】,https://www.youtube.com/watch?v=xwAWSh35uuw&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=53
+【台9線-財茂彎】,https://www.youtube.com/watch?v=3JF9plveqE0
 
 🔰台灣,#genre#
 js=https://clonglii.serv00.net/normal.js
