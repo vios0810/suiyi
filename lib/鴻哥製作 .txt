@@ -10,7 +10,7 @@ TVBS NEWS ,https://www.youtube.com/watch?v=m_dhMSvUCIc
 🔰鴻哥精選綜藝頻道,#genre#
 緯來戲劇,tvbus://5gzBWbU1wHMXHfLAgnmPHzjgLX48Qh7MQMHqWaRaFftHT5FKJmZKrgV3tjhzC
 緯來育樂,tvbus://5Pr6ixRQG7ppS3rqc4n84JwF7JAogqi28NzzfbUsZFa6m6RaRoKWYEFQdPz1H
-GPTV電影台 ,https://www.youtube.com/watch?v=oCvH-2n2E28
+GPTV電影台 ,https://www.youtube.com/watch?v=8j9KwDDmXHY
 綜藝大熱門 ,https://www.youtube.com/watch?v=-L9cBf3oAO0
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
@@ -36,13 +36,16 @@ GPTV電影台 ,https://www.youtube.com/watch?v=oCvH-2n2E28
 【波薩諾瓦音樂】,https://www.youtube.com/watch?v=35kwlY_RR08
 【抖音歌曲 2024】,https://www.youtube.com/watch?v=A-N6VG4f5YI
 【avex J-POP】,https://www.youtube.com/watch?v=tr77RbnfYIU
-【滾石現場-經典神曲】,https://www.youtube.com/watch?v=v6L8lUz1WyY
+【粤语金曲】,https://www.youtube.com/watch?v=dstIa1a4EfY
 【粵語歌曲1】,https://www.youtube.com/watch?v=nkrCq5SurdA
 【🔴 LIVE! 廣東熱播24小時】,https://www.youtube.com/watch?v=p7SIk-Q5CNI
-【粵語歌曲2】,https://www.youtube.com/live/mwQYzm2nnLQ
+【KKBOX華語單曲排行週榜】,https://www.youtube.com/watch?v=91PS1EyiyL0
 【粵語歌曲3】,https://www.youtube.com/watch?v=8S3l4GS6JAI
 【KKBOX華語單曲排行週榜】,https://www.youtube.com/live/ZadWtMrj614
 【抖音歌曲】,https://www.youtube.com/watch?v=hSzt7cJOT80
+【HIP HOP MIX】,https://www.youtube.com/watch?v=-33W-Nb6Dgs
+【近五年最受歡迎的音樂大盤點】,https://www.youtube.com/watch?v=oYn_lrJxF5A
+【Relaxing Music for Cats】,https://www.youtube.com/watch?v=CiNnUq_VJ-E
 
 【台灣即時風景影像】,#genre#
 【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
