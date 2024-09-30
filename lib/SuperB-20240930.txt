@@ -1,0 +1,821 @@
+﻿體育/sports,#genre#
+Fox Sports 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/30776d2de8/index.m3u8
+Fox Sports 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/479deb867d/index.m3u8
+Bein Sports (CA),http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/59b68097b2/index.m3u8
+Bein Sports 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/98c218a941/index.m3u8
+Bein Sports 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/b8065cf25d/index.m3u8
+Bein Sports Xtra,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/d2de8e10e1/index.m3u8
+BT Sport ESPN,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/8f82bbb4e9/index.m3u8
+BT Sport Extra 5,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/0fb3a86fb6/index.m3u8
+ESPN,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/6544b2e70b/index.m3u8
+Eurosport 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/868c217b17/index.m3u8
+Fox Sports 501,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/3bef195723/index.m3u8
+Fox Sports 502,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/4470fea9fc/index.m3u8
+Fox Sports 504,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/68fb9204c2/index.m3u8
+Fox Sports News,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/90052f446d/index.m3u8
+Fox Sports Racing,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/7c2d0e70fe/index.m3u8
+MAX,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/cff7c00612/index.m3u8
+Sky Sports Arena,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/6afb6013c1/index.m3u8
+Sky Sports Football,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/68aa5e1613/index.m3u8
+Sky Sports News ,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/fdffaa0207/index.m3u8
+Sky Store 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/784d3b66ec/index.m3u8
+Sky Store 4,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/910d94a6a2/index.m3u8
+Sky Racing 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/15657da184/index.m3u8
+Tennis Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/1c03f6f8dd/index.m3u8
+TVA SPORTS 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/995671324b/index.m3u8
+True Vision NBA,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/b80fffee3f/index.m3u8
+Astro SuperSport 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/7e652b4e39/index.m3u8
+Astro SuperSport 3,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/c9a0b95a25/index.m3u8
+Supersport Varity 1 ,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/8703546d97/index.m3u8
+Supersport Varity 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/33815460c2/index.m3u8
+Supersport Varity 3,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/f0a93a4c5e/index.m3u8
+Supersport Varity 4,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/cedc4dc02b/index.m3u8
+Supersport Premier League,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/f3c0358622/index.m3u8
+Bein Sports 3,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/4183b8dc38/index.m3u8
+Sky Sports Golf,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/2ea4828c8b/index.m3u8
+CBS Sports Network,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/323d6b2039/index.m3u8
+ESPN U,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/e437057b2f/index.m3u8
+Fight Network,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/fcff8cde39/index.m3u8
+FOX Sports Prime Ticket,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/985ca6a366/index.m3u8
+BT Sport Extra 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/cd0239c87e/index.m3u8
+BT Sport Extra 4,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/4bf1425cdf/index.m3u8
+NFL Now,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/ce0e53b508/index.m3u8
+Eman Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/b0b57e06cb/index.m3u8
+Sky Sports Action,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/eacde42f8d/index.m3u8
+Edge Sport,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/285e13b35e/index.m3u8
+Fox Sports 505,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/328f44a03f/index.m3u8
+Sports Tonight,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/2e60fa121c/index.m3u8
+Tennis Plus 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/6f516981e6/index.m3u8
+Eleven Sports HD,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/fbff862406/index.m3u8
+Sky Sports Main Event,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/8600d62519/index.m3u8
+BT Sport 3,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/ac4301f3d7/index.m3u8
+Racing com,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/36dccf6e23/index.m3u8
+Bein Sports Xtra,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/03528e0122/index.m3u8
+MUTV,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/e93346c2d2/index.m3u8
+Sky Sports Premier League,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/a0dbedaa75/index.m3u8
+Astro Arena,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/9c358a0bab/index.m3u8
+TVA SPORTS 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/09fb87031c/index.m3u8
+Fox Sports 503,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/2c02fc14d7/index.m3u8
+NBCSN,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/d423209028/index.m3u8
+Astro SuperSport 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/1ca38f3dec/index.m3u8
+Sky Sports Mix,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/b10a2e10ff/index.m3u8
+BT Sport Extra 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/0acfc161d2/index.m3u8
+NFL Network,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/ae54ce9130/index.m3u8
+BoxNation,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/c5e366ae1a/index.m3u8
+True Premier Football 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/efd32f58e2/index.m3u8
+Fox Sports 506,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/d8d80a7659/index.m3u8
+WWE Raw Network,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/c2f62dcb5c/index.m3u8
+Astro Arena 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/47a5adaecf/index.m3u8
+BT Sport 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/9554a7cb78/index.m3u8
+Sky Sports NFL,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/1d410d5240/index.m3u8
+Sky Sports Racing,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/6286ce5f19/index.m3u8
+Astro Cricket,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/f39cd9e8bf/index.m3u8
+Euro News Live,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/a4584f82d8/index.m3u8
+GOLF,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/6226b42f5d/index.m3u8
+BT Sport 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/2899b78408/index.m3u8
+Sky Sports Cricket,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/3eec7e0dba/index.m3u8
+Eurosport 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/28bb2812c3/index.m3u8
+WWE FHD,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/20c70b1958/index.m3u8
+Fox Sports 507,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/b90bc278d9/index.m3u8
+Tennis Plus 3,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/81002d2185/index.m3u8
+BT Sport Extra 3,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/8d87855509/index.m3u8
+CBS Eleven Sports Network,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/32531ceeeb/index.m3u8
+8d87855509,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/e3c948ab5e/index.m3u8
+Sky Racing 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/5c80fe6ca0/index.m3u8
+Sky Sports F1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/bf820a2de0/index.m3u8
+Sky Store 2,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/dfacfc37ae/index.m3u8
+Tennis Plus 1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/4569f94056/index.m3u8
+MAV TV,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/66624b9eed/index.m3u8
+BT Sports 1 HD,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/bsport19/index.m3u8
+BT Sports 2 HD,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/bsport20/index.m3u8
+BT Sports 3 HD,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/bsport21/index.m3u8
+MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8 
+Sky Sports PremierLeague,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/2ogiZev1/index.m3u8
+Sky Action,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/ce17f162/index.m3u8
+Sky Comedy,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/63a2e408/index.m3u8
+Sky Disney,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/48b41389/index.m3u8
+Sky Family,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/62c6cea7/index.m3u8
+Sky News,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/da7390fe/index.m3u8
+Sky Premiere,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/e90469f2/index.m3u8
+CCTV-5 體育 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/8p5jrfhk/index.m3u8
+CCTV-5+ 體育賽事 HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/53125da5/index.m3u8
+NBA_HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/519b9812/index.m3u8
+Sky Sports Cricket,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/3af1c8f3/index.m3u8
+Sky Sports Golf,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/90f37951/index.m3u8
+Sky Sports F1,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/9fda35b6/index.m3u8
+Bein_Sport_1,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/8027ea12/index.m3u8
+Bein_Sport_2,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/58ef8b5d/index.m3u8
+Bein_Sport_3,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/9d6073b9/index.m3u8
+Bein_Sport_4_Max,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/b1f2f413/index.m3u8
+Bein_Sport_5_Max,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/afd88bfa/index.m3u8
+Bein_Sport_6_Max,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/4f7caf00/index.m3u8
+Bein_Sport_7_Max,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/774149fe/index.m3u8
+Bein_Sport_8_Max,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/d672d26d/index.m3u8
+緯來體育,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/spvjqjn9/index.m3u8
+緯來育樂,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/vrn5bsmg/index.m3u8
+博斯高球一臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/13k597n4/index.m3u8
+博斯高球Ⅱ HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/p41p0chp/index.m3u8
+博斯網球 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/xvtbpnqp/index.m3u8
+ELTA體育 HD,http://e9a9b37defe7d888c.alivec.com/live/fadh3ct5/xx8jfqc9/index.m3u8
+博斯運動1,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/sq7kwzwq/index.m3u8
+欧洲體育/sports,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/jjf48w4x/index.m3u8
+ELEVEN sports2,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/d41d8cd9/index.m3u8
+ELEVEN sports plus,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/svs9236c/index.m3u8
+
+美國/USA,#genre#
+KTSF26,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/dxhen221/index.m3u8
+湾区电视台,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/dxzc221x/index.m3u8
+华语电视,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/cndjcn22/index.m3u8
+TVB News US,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/a9ef0b7830/index.m3u8
+TVB1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/fcd69ded54/index.m3u8
+TVB J1,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/c2470fba3c/index.m3u8
+TVB CLASSIC MOVIES,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/043be66c81/index.m3u8
+TVB DRAMA,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/53c7009196/index.m3u8
+TVB E NEWS,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/756b8f636b/index.m3u8
+TVB JADE,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/b622213ec2/index.m3u8
+TVB PEARL,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/fe96f22466/index.m3u8
+TVB XING HE,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/43771fe3ae/index.m3u8
+TVBE,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/e22fdaff8b/index.m3u8
+TVBS NEWS,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/f2ebd3ef52/index.m3u8
+TVBS ASIA,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/24ec41e1a7/index.m3u8
+ABS News,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/d05ddbde2b/index.m3u8
+AMC,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/95d7ecf63b/index.m3u8
+BBC America,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/cb0b4fcc14/index.m3u8
+BBC World News,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/e0d09528b0/index.m3u8
+Baby TV,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/cfacd90805/index.m3u8
+Bein Sports,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1/a55764b098/index.m3u8
+CBS,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/fee674802d/index.m3u8
+CBS News,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/4f637a28c1/index.m3u8
+CBS Sports Network,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/323d6b2039/index.m3u8
+CBS Eleven Sports Network,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a30aa3f4a2/index.m3u8
+CNBC,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/92639b6ad5/index.m3u8
+CNBC World,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b61dc92d84/index.m3u8
+CNN,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6ce0364260/index.m3u8
+Cooking Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e262a2082e/index.m3u8
+Cinemax East,http://e9a9b37defe7d888c.alivec.com/live/cjz2uzv1//index.m3u8
+Discovery Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ae177d7b50/index.m3u8
+Discovery Family,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/4571cb01e2/index.m3u8
+Discovery Life,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/533d3b00d7/index.m3u8
+Discovery Science,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2bfef8fc5a/index.m3u8
+Discovery Velocity,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6bb38f3c0c/index.m3u8
+Disney Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0e16bbc60b/index.m3u8
+DISNEY JR HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/693c09fb3c/index.m3u8
+Disney XD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f3d9b68d79/index.m3u8
+ESPN,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9be86fd709/index.m3u8
+ESPN 2,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6cd2cb7cbf/index.m3u8
+ESPN U,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9ba38ca2c6/index.m3u8
+Eleven Sports HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/fbff862406/index.m3u8
+FOX News,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/29185598b6/index.m3u8
+Fox Sports 1,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/cd0b8f6d63/index.m3u8
+Fox Sports 2,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/266f784742/index.m3u8
+FOX Sports Prime Ticket,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/fc3b913149/index.m3u8
+Freeform,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/bef745afbf/index.m3u8
+FOX Boston,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1275930766/index.m3u8
+FOX Chicago,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9347ee7ae4/index.m3u8
+FOX San Diego,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1bd7dc26e0/index.m3u8
+FOX San Francisco,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/41df271021/index.m3u8
+FOX New York,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b00cca64a4/index.m3u8
+Food Network,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/afebedd35e/index.m3u8
+FIs For Family,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f35c3f79e0/index.m3u8
+Fancy Nancy,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/db0e125da7/index.m3u8
+Gol TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ce193be565/index.m3u8
+HGTV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6cea362e3d/index.m3u8
+HISTORY HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/102c147443/index.m3u8
+HBO,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d8fd7a6e7e/index.m3u8
+HBO 2,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c5cf278863/index.m3u8
+HBO COMEDY,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/8ab4a25c3e/index.m3u8
+HBO Family,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/33f258c369/index.m3u8
+HBO Pacific,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b378f9e289/index.m3u8
+HBO SIGNATURE,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/dcddafe47c/index.m3u8
+HLN,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b89701f05f/index.m3u8
+Nat Geo,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/08cf3dd76b/index.m3u8
+Nat Geo Wild,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/8200bd312e/index.m3u8
+Nat Geo Mundo,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9ee4e69466/index.m3u8
+NBCSN,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/372d64289e/index.m3u8
+NBA TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/642fc0f827/index.m3u8
+NFL Now,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c999d4d641/index.m3u8
+NFL Network,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/491dc43438/index.m3u8
+MSNBC,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1393bea741/index.m3u8
+MTV HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/141cef03d1/index.m3u8
+MTV LIVE HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c87963cf51/index.m3u8
+MSG HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d3ee4f85d9/index.m3u8
+MSG 2 HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/61a1a97e5d/index.m3u8
+OUTDOOR,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ec7d71e8c9/index.m3u8
+SYFY,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/adda9acdb8/index.m3u8
+TBS,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/285e786c69/index.m3u8
+The Weather Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c42c5fe860/index.m3u8
+Tennis Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ee3cff0a28/index.m3u8
+Tennis Plus 1,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2ad15ae1ce/index.m3u8
+Tennis Plus 2,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/733911afb4/index.m3u8
+Tennis Plus 3,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ebf066230a/index.m3u8
+TCM,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c86b911d9d/index.m3u8
+TNT HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/99f0228e90/index.m3u8
+Travel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f1f611bb5a/index.m3u8
+WWE FHD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/da5ad83204/index.m3u8
+
+加拿大/Canada,#genre#
+新時代多倫多,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/81636a3e/index.m3u8
+新時代2,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/40e8083fd4/index.m3u8
+新時代溫哥華,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/e95974c9/index.m3u8
+600 News,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9c0ab48fbc/index.m3u8
+CP24,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b5c1996d7e/index.m3u8
+CBCNEWS,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/e5bf9322/index.m3u8
+HBOCA,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/92d18db9/index.m3u8
+TNT WEST,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/c4251e61/index.m3u8
+CBS?SPORTS,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/6cf6f03a/index.m3u8
+TNT,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/1ce79cf4/index.m3u8
+TSN1,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/0757cc4d/index.m3u8
+TSN2,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/edf86d1a/index.m3u8
+OMNI?1,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/39b01453/index.m3u8
+OMNI?2,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/a69eef3c/index.m3u8
+CHCH,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/5895b4d8/index.m3u8
+CTV?2,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/bc30fbc2/index.m3u8
+CTV?News,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/618ab625/index.m3u8
+SportNet EAST,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/f38c6054/index.m3u8
+SportNet PACIFIC,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/7f4158f7/index.m3u8
+SportNet WEST,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/8e05df31/index.m3u8
+SportNet?Ontario,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/78775607/index.m3u8
+SportNet?One,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/20dce16c/index.m3u8
+SportNet?World,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/e5bf9321/index.m3u8
+TSN3,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/eb606303/index.m3u8
+DISNEY?JR,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/c4251e62/index.m3u8
+TSN4,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/2cad0173/index.m3u8
+TSN5,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/6cf6f04a/index.m3u8
+HBOCA2,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/1ce79cf5/index.m3u8
+CTV,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/0757cc3d/index.m3u8
+SPACE,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/afb9be2a/index.m3u8
+Documentary,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/a69eef2c/index.m3u8
+SportNet?360,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/5895b4d7/index.m3u8
+NHL?Network,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/618ab626/index.m3u8
+NFL?Network,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/f38c6064/index.m3u8
+WWE,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/7f4159f7/index.m3u8
+Disney,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/8e05df32/index.m3u8
+TreeHouse,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/230bd122/index.m3u8
+TLC Canada,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/444dcd9c/index.m3u8
+ESPN 2,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/7a8bfcc3/index.m3u8
+Discovery Canada,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/7b4173c4/index.m3u8
+Discovery?Velocity,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/05f3570c/index.m3u8
+Disney XD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/c18722e6/index.m3u8
+CNBC,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/16863fa2a6/index.m3u8
+CNN,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/bcb2156a0c/index.m3u8
+ABC NEWS,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/25b05bc679/index.m3u8
+ABC EAST,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/93eb6a95e8/index.m3u8
+BBC WORLD NEWS,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/bfa535e22c/index.m3u8
+BEIN SPORTS (CA),http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/03c666d31a/index.m3u8
+BNN BLOOMBERG,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e9227ed2a3/index.m3u8
+BRAVO,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b647856887/index.m3u8
+CARTOON NETWORK,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0c8f03284c/index.m3u8
+CBC TORONTO,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/4508411952/index.m3u8
+CBC VANCOUVER,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/fb4566ab9b/index.m3u8
+CBC CALGARY,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c3a6a0e961/index.m3u8
+CBC MONTREAL,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/5179081f81/index.m3u8
+CBC WINDSOR,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/5fdf0fd2fe/index.m3u8
+CBC WINNIPEG,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d111325104/index.m3u8
+CITY TORONTO,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9c52d8f612/index.m3u8
+CITY VANCOUVER,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9928a436be/index.m3u8
+CMT CANADA,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e5559b8402/index.m3u8
+COOKING CHANNEL,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/dd35758f42/index.m3u8
+CRAVE 1 HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b58a06aea5/index.m3u8
+CRAVE 2 HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d6ccadd0a3/index.m3u8
+CRAVE 3 HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3d97bf2134/index.m3u8
+CRIME & INVESTIGATION,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a235abe371/index.m3u8
+CTV TORONTO,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/4648304dc4/index.m3u8
+CTV VANCOUVER,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/812be4af01/index.m3u8
+CTV CALGARY,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3a2cf89845/index.m3u8
+CTV DRAMA,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/848830c621/index.m3u8
+CTV MONTREAL,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3518032bd1/index.m3u8
+CTV OTTAWA,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/42060de1ea/index.m3u8
+CTV 2 VANCOUVER,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/7c00e0aeef/index.m3u8
+DISCOVERY SCIENCE,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/eff05c6488/index.m3u8
+DIY,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/4199150e3a/index.m3u8
+DTOUR HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d9af6b0a54/index.m3u8
+E! CANADA,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e8dc036490/index.m3u8
+FAMILY EAST,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6bfa7a3804/index.m3u8
+FAMILY JUNIOR,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/514340dfd3/index.m3u8
+FIGHT NETWORK,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/94184b9378/index.m3u8
+FOOD NETWORK,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2983f38cd1/index.m3u8
+FOX,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9bdb652b11/index.m3u8
+FOX NEWS,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/70e45309a1/index.m3u8
+FOX SPORTS RACING,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/5c0cb720a1/index.m3u8
+FX,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3167b34754/index.m3u8
+FYI,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e2e839fc00/index.m3u8
+Game Show Network,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1bd19fe9b3/index.m3u8
+Game TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/090a20e0de/index.m3u8
+GLOBAL,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/354e9fca0c/index.m3u8
+GLOBAL TORONTO,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3851d16901/index.m3u8
+GLOBAL VANCOUVER,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e52baf735f/index.m3u8
+GOLF,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/71a5d08829/index.m3u8
+HGTV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/33f9d39a15/index.m3u8
+HISTORY,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/29c4466eaf/index.m3u8
+ICE RDI,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/038ab10d22/index.m3u8
+ICI RDI,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/39330bb465/index.m3u8
+ICI VANCOUVER,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/29bcdb48b3/index.m3u8
+KNOWLEDGE KIDS,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/81853c71e3/index.m3u8
+LCN,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e703d04cbf/index.m3u8
+LIFETIME,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d69bf78141/index.m3u8
+LOVE NATURE,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e1f84ced98/index.m3u8
+Makeful,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/7e52db19cd/index.m3u8
+MAV TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ad7b5efe72/index.m3u8
+MAX,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f9805fb948/index.m3u8
+MIRACLE,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/81d81304a5/index.m3u8
+MOVIE TIME,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/7424af360f/index.m3u8
+MTV CA,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ea5179e0a9/index.m3u8
+MTV UK,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/02ca0fd716/index.m3u8
+MTV US,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2a5e513809/index.m3u8
+MTV 2,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ef308555be/index.m3u8
+MUCH MUSIC,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6e7a8493c6/index.m3u8
+NAT GEO,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c757b2024d/index.m3u8
+NAT GEO WILD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/db58196cf5/index.m3u8
+NICK,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/afa3a3ef16/index.m3u8
+NICKELODEON,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/381b3f8506/index.m3u8
+NTV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ce4c3509c3/index.m3u8
+OLN,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9e6573955b/index.m3u8
+ONE,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/bc17bdc179/index.m3u8
+PBS,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/bf7d8375a2/index.m3u8
+RDI,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/cd1f9ffd0c/index.m3u8
+RDS,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2e00c91336/index.m3u8
+SPORTSNET WEST,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/7942814feb/index.m3u8
+SPORTSNET EAST,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/861b24adc7/index.m3u8
+SPORTSNET PACIFIC,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6f6205d1fd/index.m3u8
+TVO,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3205ecf6d9/index.m3u8
+TVA SPORTS,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/331b4082e0/index.m3u8
+TVA SPORTS 2,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/96c90d92f7/index.m3u8
+VISION,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0df254ef4a/index.m3u8
+WEATHER NETWORK,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/571ea10487/index.m3u8
+WGN TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1c150640c3/index.m3u8
+WILD TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1aaaf288f2/index.m3u8
+WWE,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/de36f88ffc/index.m3u8
+YES TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/17ff8f047c/index.m3u8
+YTV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/237c8a94db/index.m3u8
+
+英國/UK,#genre#
+4 Seven,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/f9bdc304/index.m3u8
+5 Star,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/7ea31ec4/index.m3u8
+5 USA,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/39db5a1a/index.m3u8
+5 Select,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/e32d6dd3/index.m3u8
+Animal Planet,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/d364c8e4/index.m3u8
+Baby TV,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/559fa8f3/index.m3u8
+BBC Alba,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/479d4817/index.m3u8
+BBC Four,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/38fe4fdc/index.m3u8
+BBC News,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/04acfb1d/index.m3u8
+BBC One,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/fc2af899/index.m3u8
+BBC Two,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/162847b0/index.m3u8
+Arirang,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/adba53f21b/index.m3u8
+BBC One London,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f85a4f8902/index.m3u8
+BBC One Oxford,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ef603bef5d/index.m3u8
+BBC One Scotland,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b02d56c339/index.m3u8
+BBC One Wales,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b2f1271fe3/index.m3u8
+BBC One Yorks,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/50655279cc/index.m3u8
+BBC Parliament,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/33fa236230/index.m3u8
+BBC Scotland,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d030ee0260/index.m3u8
+Blaze,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/122f222288/index.m3u8
+Bloomberg TV EMEA,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9dbc438f2a/index.m3u8
+Boomerang,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a3a60fe4d3/index.m3u8
+Box Hits,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0cd43b81e5/index.m3u8
+Cartoon Network,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/74aa584e00/index.m3u8
+Cartoonito,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1e1e983149/index.m3u8
+CBBC,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/82dbb15563/index.m3u8
+Cbeebies,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/5290f23d5c/index.m3u8
+CBS Drama,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6f9406013a/index.m3u8
+CBS Justice,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0b249a6bb8/index.m3u8
+CBS Reality,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b53b6c5c7c/index.m3u8
+Challenge,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/8464f6cdeb/index.m3u8
+Channel 4,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2be34d5a9c/index.m3u8
+Channel 5,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f958e6e34d/index.m3u8
+Cinebox Animation,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c350ef24ad/index.m3u8
+Cinebox Blockbuster,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1135415860/index.m3u8
+Cinebox Classics,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3d6180b7ae/index.m3u8
+Cinebox Comedy,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1acb6777c7/index.m3u8
+Cinebox Cult,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2f5097421d/index.m3u8
+Cinebox Family,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/394ff3b1ad/index.m3u8
+Cinebox Greats,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d6e22afddc/index.m3u8
+Cinebox Hits,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/417794f695/index.m3u8
+Cinebox Horror,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c965909d78/index.m3u8
+Cinebox Musical,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/8aaa3ae09c/index.m3u8
+Cinebox Mystery,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0c403f920a/index.m3u8
+Cinebox Premiere,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a6b84fa1e2/index.m3u8
+Cinebox Romance,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2454ca3e90/index.m3u8
+Cinebox Sci-Fi,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/233ad86634/index.m3u8
+Cinebox Thriller,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/dc5e31e44d/index.m3u8
+Cinebox Western,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3ce0919895/index.m3u8
+Clubbing TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/cb31244091/index.m3u8
+CNN International,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3009c5834f/index.m3u8
+CNN UK,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/5bdff11ac4/index.m3u8
+Comedy Central,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/33e807ec76/index.m3u8
+Crime & Investigation,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c935cd56a9/index.m3u8
+Dave,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ce0111a162/index.m3u8
+Discovery Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/5c9e2b8551/index.m3u8
+Discovery History,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f9959a28b2/index.m3u8
+Discovery Science,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f8aa361c98/index.m3u8
+Discovery Turbo,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/cfae5b8fc1/index.m3u8
+DMAX,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/7504b9d277/index.m3u8
+Drama,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2e1e82c2d7/index.m3u8
+E!,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6a09b7cadb/index.m3u8
+E4,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d497a90f9a/index.m3u8
+Eden,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a0724c6f3d/index.m3u8
+Film4,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/8ed52a7e26/index.m3u8
+Flow Sport 1,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/486a8e57fa/index.m3u8
+Food Network,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/99fbf0483d/index.m3u8
+GB News,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e75052e2cb/index.m3u8
+Gold,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d8e970ec2d/index.m3u8
+Great! Movies Classic,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c05df163ff/index.m3u8
+Great! Movies,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/729cd9d41e/index.m3u8
+Great! TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f026b84840/index.m3u8
+Great! Xmas,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/09a36d15b3/index.m3u8
+Horse & Country TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3e9636fe2c/index.m3u8
+Investigation Discovery,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/51ea37206a/index.m3u8
+ITV 2,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c02c5738c4/index.m3u8
+ITV 3,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a00278ea3a/index.m3u8
+ITV 4,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/8796908b1f/index.m3u8
+ITV Be,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/48307a1e80/index.m3u8
+ITV Central West,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/460cc29417/index.m3u8
+ITV Central,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a73ed90059/index.m3u8
+ITV London,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/8221387c2e/index.m3u8
+ITV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c65f6d82c5/index.m3u8
+LFC TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/01f235fd57/index.m3u8
+Magic TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/4bcb8e563c/index.m3u8
+More4,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/755b878c80/index.m3u8
+MTV 80s,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9dedb58476/index.m3u8
+MTV 90s,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0f7682a09f/index.m3u8
+MTV Base,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c0f510e701/index.m3u8
+MTV Classic,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/b2677950fb/index.m3u8
+MTV Hits,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/047eefcc8e/index.m3u8
+MTV Music,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/73ae69842b/index.m3u8
+MTV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ff658694f1/index.m3u8
+Nat Geo Wild,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/70d3dd9b40/index.m3u8
+National Geographic,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ebb8f5b031/index.m3u8
+Pick,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/50862aedd4/index.m3u8
+POP Max,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/6534b51eec/index.m3u8
+Quest,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0255877ac4/index.m3u8
+Racing Post TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f8074b2069/index.m3u8
+Racing TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d4c1738dd0/index.m3u8
+S4C,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/60db1d25c3/index.m3u8
+Sky Arts,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/66230eface/index.m3u8
+Sky Atlantic,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/08e341686c/index.m3u8
+Sky Cinema Action,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9b015243bf/index.m3u8
+Sky Cinema Animation,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a349c7d00a/index.m3u8
+Sky Cinema Comedy,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/85ea9e8871/index.m3u8
+Sky Cinema Drama,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/73b3bead29/index.m3u8
+Sky Cinema Family,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/962539a737/index.m3u8
+Sky Cinema Greats,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0b738d62a0/index.m3u8
+Sky Cinema Hits,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0fefcce4df/index.m3u8
+Sky Cinema Premiere,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a3ca5a2055/index.m3u8
+Sky Cinema Sci-fi & Horror,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/14e3a134c7/index.m3u8
+Sky Cinema Select,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/650573f2bf/index.m3u8
+Sky Cinema Thriller,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2174cf218d/index.m3u8
+Sky Comedy,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/09da571274/index.m3u8
+Sky Documentaries,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d801a31d64/index.m3u8
+Sky History 2,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/352295ef21/index.m3u8
+Sky History,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/f9eb945d6f/index.m3u8
+Sky Max,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e113c9bb23/index.m3u8
+Sky Nature,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/7a540904b2/index.m3u8
+Sky News,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/64c153ebea/index.m3u8
+Sky Replay,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/1b11813e63/index.m3u8
+Sky Showcase,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c2a9e860bf/index.m3u8
+Sky Store Pre Order Kids,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/eecc83b344/index.m3u8
+Sky Store Pre Order,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2b4605f80d/index.m3u8
+Sky Witness,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9654bf3655/index.m3u8
+Sony TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ed95a020e9/index.m3u8
+Sporty Stuff,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c7296de30d/index.m3u8
+STV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2e39f7eab6/index.m3u8
+Supertoons TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e17a29b671/index.m3u8
+SyFy,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/210da84400/index.m3u8
+Tennis Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/cc7d00f7f7/index.m3u8
+The Box,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c26ecc21ca/index.m3u8
+TLC,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a688aa2176/index.m3u8
+CH_TL,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/23316a0930/index.m3u8
+UFC Fight Pass,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c66e98575f/index.m3u8
+CH_W,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9b0a93e378/index.m3u8
+
+澳洲/Australia,#genre#
+7 Flix,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/7738cd5579/index.m3u8
+7 Mate,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2db171b23f/index.m3u8       
+7 Two,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/3f2ea3a3c6/index.m3u8
+9 GEM,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/fc565515f1/index.m3u8
+9 Life,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d513404fe7/index.m3u8
+ABC Australia,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/acc297a7eb/index.m3u8
+ABC Kids NT,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/c9f336e9ee/index.m3u8
+ABC News,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0deab2220c/index.m3u8
+ABC Me,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2ff0b88ae5/index.m3u8
+ausbiz TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/ecc45ea6c6/index.m3u8
+Australian Christian Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/8fbb5a7dad/index.m3u8
+Bloomberg TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/8d4279a409/index.m3u8
+Expo Channel,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/2869aba968/index.m3u8
+Gusto TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/d0b9e11e60/index.m3u8
+Insight TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/585843670b/index.m3u8
+Inwild TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/cf07d48121/index.m3u8
+Inwonder TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a0079fda0a/index.m3u8
+Juice TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/0a7b1264f9/index.m3u8
+NITV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/7a4ffd24dc/index.m3u8
+NITV HD,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/e24a53ad38/index.m3u8
+Parl TV,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/626eb194a4/index.m3u8
+Real Stories,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/a25133c9a1/index.m3u8
+SBS Food,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/9d33b0b05e/index.m3u8
+SBS Viceland,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/46f908f8d2/index.m3u8
+0e17046e22,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/SBS World Movies/index.m3u8
+Sky News,http://e9a9b37defe7d888c.alivec.com/live/cjz1uzv2/01f0964329/index.m3u8
+
+香港/Hongkong,#genre#
+翡翠臺,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/b3ce88a4/index.m3u8
+翡翠臺(HD),http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/5tg7hf6c/index.m3u8
+TVB J2,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/0087ab5b/index.m3u8
+TVB新闻,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/2f290875/index.m3u8
+TVB新闻(HD),http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/g9wq1prh/index.m3u8
+鳳凰衛視香港台,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/vfhd84ad/index.m3u8
+明珠臺,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/2d901758/index.m3u8
+明珠臺(HD),http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/kq1n91hb/index.m3u8
+HOY TV,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/4c55d1cc/index.m3u8
+HOY資訊台,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/b215381c/index.m3u8
+有線香港国际财经台,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/sxmznckz/index.m3u8
+香港衛視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/89n4xz21/index.m3u8
+有綫HBO,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/84wnpj8g/index.m3u8
+viu tv,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/12e5a374/index.m3u8
+viu tv(HD),http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/zbjk0cj6/index.m3u8
+ViuTV6,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/1adccc67/index.m3u8
+now紫金國際台,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/98949daa/index.m3u8
+now直播台,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/fc132now/index.m3u8
+RTHK31,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/ee649933/index.m3u8
+RTHK32,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/506cb6da/index.m3u8
+TVBUS 1,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/1d21a59c/index.m3u8
+TVB星河,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy034/index.m3u8
+TVB娱乐,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/qz897rqx/index.m3u8
+TVB经典,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/b57abdaa/index.m3u8
+SINO TV,http://e9a9b37defe7d888c.alivec.comhttps://cdnts.sinovision.net/livestream.m3u8
+CP24,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/1cb2229c/index.m3u8
+新时代多伦多,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/d0a1b9c3/index.m3u8
+新时代溫哥華,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/csxjcxnx/index.m3u8
+新时代 2 Fairchild 2,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/53e9c80f/index.m3u8
+鳳凰衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/b41asd11/index.m3u8
+鳳凰資訊HD,http://e9a9b37defe7d888c.alivec.comhttps://www.youtube.com/watch?v=HFib76ySpbU
+澳門蓮花,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/cs7rpncg/index.m3u8
+澳門衛視,http://e9a9b37defe7d888c.alivec.comhttp://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳門資訊,http://e9a9b37defe7d888c.alivec.comhttp://61.244.22.5/ch5/info_ch5.live/master.m3u8
+澳視澳門,http://e9a9b37defe7d888c.alivec.comhttp://61.244.22.5/ch1/ch1.live/playlist.m3u8
+澳視衛星,http://e9a9b37defe7d888c.alivec.comhttp://61.244.22.4/ch3/ch3.live/index.m3u8
+
+日本/Japan,#genre#
+NHK,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/9zvn2r22/index.m3u8
+Japanet,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/2v2f7p8m/index.m3u8
+TBS NEWS,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/vmw4nm9s/index.m3u8
+NHKBS1,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/nb8x0j7z/index.m3u8
+NHKBS2,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/t67m59f1/index.m3u8
+フジテレビ,http://e9a9b37defe7d888c.alivec.com/live/91200de4/a31d0a49/index.m3u8
+日本/Japan天気予報,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/s0qxr5fs/index.m3u8
+テレビ剧场,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/36bg5h45/index.m3u8
+AnimeTV,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/jmk46wht/index.m3u8
+BS-日テレ,http://e9a9b37defe7d888c.alivec.com/live/91200de4/9206ead8/index.m3u8
+NHK-総合,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/wqhk9ph8/index.m3u8
+BS-12,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/ejnd2131/index.m3u8
+BS-テレ東京,http://e9a9b37defe7d888c.alivec.com/live/91200de4/345f0197/index.m3u8
+QVC,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/5852aaf6/index.m3u8
+HTB北海道ニュース,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/76664fff/index.m3u8
+佐賀 KBC NEWS,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/01c9715d/index.m3u8
+gstv,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/7274ccf6/index.m3u8
+CGNTV,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/62565676/index.m3u8
+TOKYOMX,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/kf80gbxc/index.m3u8
+TOKYOMX2,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/3f9mkpzv/index.m3u8
+ANNnewsCH,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/0ad7c0fa/index.m3u8
+NHK_WORLD JAPAN,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/mn4r6rh7/index.m3u8
+Japan News 24,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/51671ceb/index.m3u8
+BBC_World_News JP,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/sfbr8tsc/index.m3u8
+
+中國/China,#genre#
+CCTV-1 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/jgcz990f/index.m3u8
+CCTV-2,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/7br6tfc7/index.m3u8
+CCTV-3 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/610m2pq2/index.m3u8
+CCTV4 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/z1z0qgmt/index.m3u8
+CCTV-4,http://e9a9b37defe7d888c.alivec.comhttps://www.youtube.com/watch?v=twhG7_jvA8g
+CCTV-6 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/494r502h/index.m3u8
+CCTV-7 軍事農業,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/trqqc7bx/index.m3u8
+CCTV-8 電視劇 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/jkzkt5sh/index.m3u8
+CCTV-9HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/23nc5ktw/index.m3u8
+CCTV-10 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/s9fb5tsw/index.m3u8
+CCTV-11 戲曲,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/8pp5sbrj/index.m3u8
+CCTV-12 社會與法,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/722m6jv4/index.m3u8
+CCTV-13 新闻,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/3zggm45n/index.m3u8
+CCTV-14 少兒,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/483f4944/index.m3u8
+CCTV-15 音樂,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/t0j79f8c/index.m3u8
+CCTV-16 奧林匹克,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/vken2ac1/index.m3u8
+CCTV-17 農業,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/6s8k1k66/index.m3u8
+CCTV懷舊劇場,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/bxt1zcf3/index.m3u8
+湖南衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/qtj1jx16/index.m3u8
+江蘇衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/f95ngkwq/index.m3u8
+浙江衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/c0j26t0r/index.m3u8
+東方衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/zvstjgb3/index.m3u8
+廣東衛視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/c8wfnrgw/index.m3u8
+廣東體育,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/zg8dc22x/index.m3u8
+深圳衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/5ng3b4fx/index.m3u8
+遼寧衛視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/3qb2j6nc/index.m3u8
+重慶衛視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/bcz5x1cr/index.m3u8
+黑龍江衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/htvjvvhf/index.m3u8
+北京衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/cmgw1gqb/index.m3u8
+湖北衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/zg8m3znc/index.m3u8
+四川衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/w3zfb5rh/index.m3u8
+貴州衛視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/k982x8c8/index.m3u8
+廣西衛視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/rgbxs8j7/index.m3u8
+福建東南衛視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/64rv5hgz/index.m3u8
+江西衛視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/jmgfmzqq/index.m3u8
+北京国际,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/spr8mxjs/index.m3u8
+安徽衛視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/1v18re67/index.m3u8
+珠江臺,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/cb4ebf16/index.m3u8
+南方衛視臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/sg4fx9qp/index.m3u8
+天映頻道,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy027/index.m3u8
+長城精品,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/f699c641/index.m3u8
+HGTV,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/f406b29a/index.m3u8
+
+台灣/Taiwan,#genre#
+公視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/j44fm83f/index.m3u8
+公視台語台,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/8x1bt2hg/index.m3u8
+華視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/hmrmw2mj/index.m3u8
+臺視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/c05pm3s2/index.m3u8
+中視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/qx3hnnss/index.m3u8
+中視 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/0fjz7px1/index.m3u8
+民視,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/7c4f853f/index.m3u8
+霹雳台,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/d1ffefce/index.m3u8
+民視台灣/Taiwan臺 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/bh0x57p4/index.m3u8
+民視新闻,http://e9a9b37defe7d888c.alivec.comhttps://www.youtube.com/watch?v=ylYJSBUgaMA
+中視新闻臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/bkrbn0pf/index.m3u8
+中視新闻臺 bak,http://e9a9b37defe7d888c.alivec.comhttps://www.youtube.com/watch?v=TCnaIE_SAtM
+年代新闻,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/67f088a8/index.m3u8
+非凡新闻,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/569f8eea/index.m3u8
+非凡商业,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/1b1653b5/index.m3u8
+東森幼幼,http://e9a9b37defe7d888c.alivec.com/live/fchcah3u/31t5z7bp/index.m3u8
+東森洋片,http://e9a9b37defe7d888c.alivec.com/live/fadh3ct5/0kxhqv8q/index.m3u8
+東森新闻 HD,http://e9a9b37defe7d888c.alivec.comhttps://www.youtube.com/watch?v=V1p33hqPrUk
+東森新闻 HD bak,http://e9a9b37defe7d888c.alivec.com/live/fchcah3u/94zf0c2v/index.m3u8
+東森財經新闻 HD,http://e9a9b37defe7d888c.alivec.comhttps://www.youtube.com/watch?v=WHEPzbFA3hw
+東森財經新闻 HD bak,http://e9a9b37defe7d888c.alivec.com/live/fchcah3u/1cj0fxmv/index.m3u8
+東森戲劇,http://e9a9b37defe7d888c.alivec.com/live/fchcah3u/g5n3j8kx/index.m3u8
+CinemaWorld,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/wrn6wjz7/index.m3u8
+STAR World,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/e8eddaf3/index.m3u8
+華視教育體育文化台,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/185781a1/index.m3u8
+FOX SPORTS 1 HD,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/1a74fff3/index.m3u8
+FOX SPORTS 2 HD,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/55de631b/index.m3u8
+FOX-News,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/39497075/index.m3u8
+SKY NEWS HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/8vfjmcsj/index.m3u8
+CNN,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/7w0tv28m/index.m3u8
+BBC,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/93n722x2/index.m3u8
+BBC earth HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/cbpz1qrf/index.m3u8
+BBC Lifestyle HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/wq2z42th/index.m3u8
+Bloomberg ,http://e9a9b37defe7d888c.alivec.comhttps://www.youtube.com/watch?v=iyOq8DhaMYw
+CNBC,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/wnfjf1pn/index.m3u8
+France 24(English),http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/4f17z4qv/index.m3u8
+TV5,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/9nk93b9c/index.m3u8
+DW-TV,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/5g2z36jg/index.m3u8
+JET綜合,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/07t8z33z/index.m3u8
+高點電視台 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/fmqkc4bh/index.m3u8
+好消息1,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/x4qgwt3s/index.m3u8
+Discovery HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/fvptsnk3/index.m3u8
+Discovery 動力頻道 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/nvhgfr5c/index.m3u8
+Discovery 科學頻道 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/0j9wgpsb/index.m3u8
+ANIMAL-PLANET,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/63f6f7c7/index.m3u8
+History HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/4m124k0n/index.m3u8
+History2 HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/hdfg61df/index.m3u8
+CI 罪案偵緝,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/rw55z1xs/index.m3u8
+亞洲旅遊臺 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/jhmt4rc8/index.m3u8
+亞洲美食,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/2fdxafax/index.m3u8
+美食星球,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/45c2r1kr/index.m3u8
+Fashiontv HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/7xkr4spr/index.m3u8
+FTV MIDNIGHT SECRETS,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/91112251/index.m3u8
+COMEDY-CENTRAL,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/3e8e3616/index.m3u8
+HBO family,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/61br3tqt/index.m3u8
+星衛娛樂臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/sps6gxp6/index.m3u8
+MTV,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/a7939dbd/index.m3u8
+LIfetimeMovie,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/ed6089dd/index.m3u8
+E!,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/71f4470d/index.m3u8
+Warner Bros HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/c8853895/index.m3u8
+Travelchannel,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/059c6cgh/index.m3u8
+曼迪日本/Japan臺,http://e9a9b37defe7d888c.alivec.com/live/fchcah3u/zhjnc3xr/index.m3u8
+TVN,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/8wk7r3sc/index.m3u8
+Z頻道,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/bcv2rznr/index.m3u8
+ANIMAX,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/zmz9k2hc/index.m3u8
+Disney（迪士尼）,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/tnv75740/index.m3u8
+CN 卡通,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/0jqsx5tg/index.m3u8
+MOMO親子臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/877sd556/index.m3u8
+大愛一臺 ,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/tcs89msv/index.m3u8
+國兴衛視,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/6zb3p58j/index.m3u8
+好消息2,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/h8w5891c/index.m3u8
+
+新馬/Singapore Malaysia,#genre#
+歡喜台,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy030/index.m3u8
+華麗臺,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy029/index.m3u8
+全佳,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy032/index.m3u8
+双星,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy035/index.m3u8
+爱奇艺,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy039/index.m3u8
+天映经典,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy028/index.m3u8
+MTV LIVE,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy061/index.m3u8
+AOD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy038/index.m3u8
+Asian Food Network,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/03int022/index.m3u8
+supersport1,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/bsport48/index.m3u8
+supersport2,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/bsport60/index.m3u8
+supersport3,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/bsport49/index.m3u8
+supersport4,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/bsport59/index.m3u8
+supersport5,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/fjeic31a/index.m3u8
+馬來_TV1,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/d0975502/index.m3u8
+馬來_TV2,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/303c2958/index.m3u8
+馬來_TV3,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/fe5e3f18/index.m3u8
+馬來_NTV7,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/1fcfc4f0/index.m3u8
+馬來_8TV,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/ca49308d/index.m3u8
+馬來_8TV(备),http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/f389f4f6/index.m3u8
+馬來_9TV,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/833e1f6d/index.m3u8
+AWANI,http://e9a9b37defe7d888c.alivec.comhttps://www.youtube.com/watch?v=zLu0wfp6bgw
+AWANI(备1),http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/a8362638/index.m3u8
+AEC a,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy023/index.m3u8
+AEC b,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/fdjcjzvvfaf/index.m3u8
+AEC c,http://e9a9b37defe7d888c.alivec.com/live/8c33fa9b/06q651a6/index.m3u8
+AL-HIJRAH,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy018/index.m3u8
+BERNAMA,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/df313d65/index.m3u8
+OASIS,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/4dbac357/index.m3u8
+Okey,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/d2ac9837/index.m3u8
+Zee Cinema,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/rt4fjncx/index.m3u8
+HITS,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/mcadja21/index.m3u8
+Astro Arena HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/06cth045/index.m3u8
+CHANNEL_5,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/00xjp001/index.m3u8
+CHANNEL_8,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/00xjp008/index.m3u8
+CHANNEL_NEWS_ASIA,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/00xjp004/index.m3u8
+CHANNEL_U,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/00xjp005/index.m3u8
+ceria,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy013/index.m3u8
+SURIA,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/c4c44bax/index.m3u8
+Sony_HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy024/index.m3u8
+VASANTHAM,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/00xjp007/index.m3u8
+Boo-HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/amlxy020/index.m3u8
+衛視中文臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/a121q1cc/index.m3u8
+
+印度/India,#genre#
+Zee新闻台,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/02byd010/index.m3u8
+Zee新闻台（备）,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/ddf5360b18957a47/index.m3u8
+Zee_Action,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/02byd007/index.m3u8
+Zee_Tamil,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/02byd003/index.m3u8
+Zee_Tamil（备）,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/63250db0e7b2ee53/index.m3u8
+Zee_TV,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/02byd006/index.m3u8
+Zee_TV（备）,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/6b8ea5f9/index.m3u8
+Color_HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/02byd012/index.m3u8
+Starplus,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/02byd013/index.m3u8
+Sun_TV,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/02byd001/index.m3u8
+Star_Vijay,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/02byd019/index.m3u8
+KTV_UK,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/02byd018/index.m3u8
+And Pictures,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/bce601e8/index.m3u8
+And TV,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/fdc321fe/index.m3u8
+DD News,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/87361dc5/index.m3u8
+Colors HD,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/1a07ccb4/index.m3u8
+Colors UK,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/08be2479/index.m3u8
+Gemini Comedy Telugu,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/31dd409e/index.m3u8
+Gemini Telugu,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/6f24d013/index.m3u8
+HBO,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/0651cf50/index.m3u8
+NDTV 24x7,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/58482a48b0fe75f8/index.m3u8
+NDTV India,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/4d263dbc7e4f72ec/index.m3u8
+India TV,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/1e7a1e40344e4357/index.m3u8
+Sony ESPN,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/2f0cc4036e79cef1/index.m3u8
+Sony Ten 1,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/d07cf2d79d37f275/index.m3u8
+Sony Ten 2,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/bd74e55effa088e1/index.m3u8
+Sony Ten 3,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/c15e5f305bdd2969/index.m3u8
+SMBC TV,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/8b12a0b873cac86a/index.m3u8
+Sudarshan,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/955be6b6fadee289/index.m3u8
+Star Movies,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/a2a63c7d42a29840/index.m3u8
+Star Plus UK,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/61598da8260efc9e/index.m3u8
+Sun Tamil,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/559bd69a4afed941/index.m3u8
+WIllow Cricket,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/3fe8a0eb1d8ba2b6/index.m3u8
+Zee Studio,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/ca6cbffa9966607b/index.m3u8
+
+電影/Movie,#genre#
+美亞电影臺 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/4vphhg1h/index.m3u8
+星衛电影臺 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/6s69fnjz/index.m3u8
+catchplay,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/63t80c5p/index.m3u8
+衛視西片 HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/1vnt5wqn/index.m3u8
+龍祥時代,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/0xz20xk6/index.m3u8
+緯來电影,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/q9p24xqk/index.m3u8
+中國/China电影频道（CMC）北美,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/d65c043f/index.m3u8
+好萊塢电影臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/q0rskj6h/index.m3u8
+HBO HD MY,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/03intx26/index.m3u8
+HBO Hits MY,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/893jx12a/index.m3u8
+HBO family MY,http://e9a9b37defe7d888c.alivec.com/live/dskmxzaa/82kfi2a2/index.m3u8
+HBO Hits,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/invnbjaa/index.m3u8
+HBO Signature HD,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/8as1d3as/index.m3u8
+壹電視電影台,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/agdc1y5c/index.m3u8
+AXN,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/q1t3r233/index.m3u8
+CINEMAX,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/w6stt0q8/index.m3u8
+東森电影,http://e9a9b37defe7d888c.alivec.com/live/fchcah3u/q6t7f6hg/index.m3u8
+龍華洋片,http://e9a9b37defe7d888c.alivec.com/live/a9a5de21/gs7wj4b5/index.m3u8
+
+新聞/News,#genre#
+鳳凰資訊HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/871a556a/index.m3u8
+TVBS-N HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/1b82cf55/index.m3u8
+三立新闻,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/5890d7c4/index.m3u8
+中天新闻HD,http://e9a9b37defe7d888c.alivec.com/live/a9a5de21/8j108vcc/index.m3u8
+寰宇財經,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/0q5fr8rh/index.m3u8
+寰宇新闻,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/mxrsjhxp/index.m3u8
+寰宇新闻2,http://e9a9b37defe7d888c.alivec.com/live/fchcah3u/84zr1797/index.m3u8
+臺視新闻臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/rmntpxs1/index.m3u8
+
+兒童/Kids,#genre#
+愛爾達育樂 HD,http://e9a9b37defe7d888c.alivec.com/live/fadh3ct5/bxjgvrj3/index.m3u8
+靖天卡通臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/188de90f/index.m3u8
+靖天育樂臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/fz0wwtjb/index.m3u8
+Disney-Channel,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/e344fab6/index.m3u8
+Disney-JR,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/37fcf63c/index.m3u8
+Disney-XD,http://e9a9b37defe7d888c.alivec.com/live/e95cebf9/b3764be5/index.m3u8
+
+國際/International,#genre#
+Mezzo Live HD,http://e9a9b37defe7d888c.alivec.com/live/t6u5b1q4/9e97608c/index.m3u8
+愛爾達體育4臺,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/w7tx0758/index.m3u8
+BabyFirst,http://e9a9b37defe7d888c.alivec.com/live/kwzq1rse/fj3mtgtj/index.m3u8
