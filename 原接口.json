@@ -2698,6 +2698,44 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
+    {
+        "name": "😂😂發😁😁",
+        "type": 0,
+        "url": "./lib/發.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+   },
+    {
+        "name": "😂😂SuperB😁😁",
+        "type": 0,
+        "url": "./lib/SuperB-20240930.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+   },
+   {
+        "name": "😂😂全球直播6.0一锅端😁😁",
+        "type": 0,
+        "url": "./lib/全球直播6.0一锅端.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+   },
+    {
+        "name": "😂😂爱看TV一锅端😁😁",
+        "type": 0,
+        "url": "./lib/爱看TV一锅端.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+   },
+  
     {
         "name": "😂😂蜂蜜專線😁😁",
         "type": 0,
@@ -2825,6 +2863,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
     {
         "name": "😂😂垃圾源😁😁",
         "type": 0,
