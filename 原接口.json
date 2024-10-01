@@ -3044,6 +3044,7 @@
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
 {"name":"16万•MV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
+{"name":"初秋语•ipv4","type":0,"url":"./list.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {
       //2024-08-28 have list but no steamming
       "name": "傑克森0829CR",
