@@ -1,4 +1,5 @@
 🔰鴻哥精選新聞頻道,#genre#
+山陀兒颱風監視,https://www.youtube.com/watch?v=VX0nULHEtpg
 東森新聞 ,https://www.youtube.com/watch?v=V1p33hqPrUk
 台視新聞台HD ,https://www.youtube.com/watch?v=xL0ch83RAK8
 TVBS NEWS ,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -10,7 +11,7 @@ TVBS NEWS ,https://www.youtube.com/watch?v=m_dhMSvUCIc
 🔰鴻哥精選綜藝頻道,#genre#
 緯來戲劇,tvbus://5gzBWbU1wHMXHfLAgnmPHzjgLX48Qh7MQMHqWaRaFftHT5FKJmZKrgV3tjhzC
 緯來育樂,tvbus://5Pr6ixRQG7ppS3rqc4n84JwF7JAogqi28NzzfbUsZFa6m6RaRoKWYEFQdPz1H
-GPTV電影台 ,https://www.youtube.com/watch?v=8j9KwDDmXHY
+GPTV電影台 ,https://www.youtube.com/watch?v=k1f1uti-xMU
 綜藝大熱門 ,https://www.youtube.com/watch?v=-L9cBf3oAO0
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
@@ -51,7 +52,7 @@ GPTV電影台 ,https://www.youtube.com/watch?v=8j9KwDDmXHY
 【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
 【花蓮海岸-忘憂亭】,https://www.youtube.com/watch?v=Ic6hqus0tjA
 【高雄海岸_蚵寮國小】,https://www.youtube.com/watch?v=sKrqs-5Auqo&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=3
-【林邊溪_羌光橋】,https://www.youtube.com/watch?v=13C8jdbqQcI&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=4
+【高雄觀光即時影像－山陀兒颱風動態直播】,https://www.youtube.com/watch?v=A8BMr4UBp6w
 【烏來老街與覽勝橋】,https://www.youtube.com/watch?v=tx07sS9lCvY&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=5
 【礁溪寒沐酒店頂樓】,https://www.youtube.com/watch?v=cPh2vzrtG_w&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=6
 【高雄壽山情人觀景台】,https://www.youtube.com/watch?v=C03Itx8iSC0&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=21
@@ -59,6 +60,19 @@ GPTV電影台 ,https://www.youtube.com/watch?v=8j9KwDDmXHY
 【高雄旗津海水浴場】,https://www.youtube.com/watch?v=ka7FV0sCvxQ&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=36
 【淡水漁人碼頭】,https://www.youtube.com/watch?v=xwAWSh35uuw&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=53
 【台9線-財茂彎】,https://www.youtube.com/watch?v=3JF9plveqE0
+【台東多良車站】,https://www.youtube.com/watch?v=UCG1aXVO8H8&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_
+【墾丁大街、墾丁大灣、墾丁路】,https://www.youtube.com/watch?v=ue4O7d9qP6I&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=30
+【三仙台】,https://www.youtube.com/watch?v=dQ7Sd6PGLdA&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=12
+【綠島柴口浮潛區】,https://www.youtube.com/watch?v=zQQSfAkjCJc&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=21
+【金崙大橋】,https://www.youtube.com/watch?v=9QqBz3kNHis&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=32
+【西子灣】,https://www.youtube.com/watch?v=Jsz-d62r-Eg&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=46
+【富岡漁港】,https://www.youtube.com/watch?v=VG8ASWpuUvE&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=51
+【加路蘭遊憩區】,https://www.youtube.com/watch?v=AKl3F6cAY2Q&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=41
+【西子灣2】,https://www.youtube.com/watch?v=BV43sOgquQk&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=53
+【金門134高地】,https://www.youtube.com/watch?v=-srNHTE-Nf0&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=60
+【船帆石沙灘】,https://www.youtube.com/watch?v=f8yo_osMxAg&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=97
+【壽豐花蓮大橋】,https://www.youtube.com/watch?v=BDs9UIRw4zc&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=213
+
 
 🔰台灣,#genre#
 js=https://clonglii.serv00.net/normal.js
