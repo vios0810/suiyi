@@ -72,7 +72,7 @@ GPTV電影台 ,https://www.youtube.com/watch?v=k1f1uti-xMU
 【金門134高地】,https://www.youtube.com/watch?v=-srNHTE-Nf0&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=60
 【船帆石沙灘】,https://www.youtube.com/watch?v=f8yo_osMxAg&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=97
 【壽豐花蓮大橋】,https://www.youtube.com/watch?v=BDs9UIRw4zc&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=213
-
+【高雄系統 南向 交流道】,https://www.youtube.com/watch?v=J8fsaAXWnwU&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=325
 
 🔰台灣,#genre#
 js=https://clonglii.serv00.net/normal.js
