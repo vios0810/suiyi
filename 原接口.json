@@ -2718,7 +2718,25 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
-    
+    {
+        "name": "😂😂4gtv2😁😁",
+        "type": 0,
+        "url": "./lib/4gtv-搬運.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	
+    {
+        "name": "😂😂4gtv1😁😁",
+        "type": 0,
+        "url": "./lib/4gtv.m3u",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
         "name": "😂😂4gtv😁😁",
         "type": 0,
