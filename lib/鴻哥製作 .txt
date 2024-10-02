@@ -74,7 +74,9 @@ Channel [V],mitv://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
 【船帆石沙灘】,https://www.youtube.com/watch?v=f8yo_osMxAg&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=97
 【壽豐花蓮大橋】,https://www.youtube.com/watch?v=BDs9UIRw4zc&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=213
 【高雄系統 南向 交流道】,https://www.youtube.com/watch?v=J8fsaAXWnwU&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=325
-【雙園大橋-林園區】,https://www.dokoportal.com/cctv/cp-cctv-38-0170-249-001
+【高雄旗津】,https://www.youtube.com/watch?v=qEishQW_Wxc
+【前鎮區 草衙道】,https://www.youtube.com/watch?v=l19qCwglItE
+【高雄市澄清湖、澄清湖觀夕平台】,https://www.youtube.com/watch?v=uKeDvjvYJdw
 
 🔰台灣,#genre#
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -908,46 +910,6 @@ K频道,mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
 电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
 电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
-
-🌙月光宝盒,#genre#
-華視,rtmp://f13h.mine.nu/sat/tv111
-中視,rtmp://f13h.mine.nu/sat/tv091
-台視,rtmp://f13h.mine.nu/sat/tv071
-民視,rtmp://f13h.mine.nu/sat/tv051
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
-凤凰中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰资讯台,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-CCTV6,http://ygbh.live/1905.php?id=cctv6
-1905国内电影,http://ygbh.live/1905.php?id=1905a
-1905国外电影,http://ygbh.live/1905.php?id=1905b
-探索,http://61.221.215.25:8800/hls/1/index.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-动漫,http://61.221.215.25:8800/hls/40/index.m3u8
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-NHK,http://61.221.215.25:8800/hls/51/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物世界,http://61.221.215.25:8800/hls/57/index.m3u8
 
 🔰戲劇知識綜合,#genre#
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
@@ -3555,92 +3517,7 @@ HBO强档巨献(B),P2p://generationnexxxt.com:19806/55d1f251a1cc4043b0b2a748bcd2
 HBO原创巨献(B),P2p://generationnexxxt.com:19806/03579c59806d4cd9b1b3100caacadede
 amc电影台(B),P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
 
-
-🔰台灣-知識,#genre#
-探索频道,P2p://generationnexxxt.com:19806/c7afe2fe39a04c1dada51462430dce8a
-达文西频道,P2p://generationnexxxt.com:19806/170c28c8132b4ce183b4fbf61537dcff
-动物星球,P2p://generationnexxxt.com:19806/b165132a770741bcac023d15750067d3
-BBC Earth,P2p://generationnexxxt.com:19806/bfb6de1d865a44c7a78477c6a0eb0b4a
-BBC Earth(B),P2p://generationnexxxt.com:19806/14e78adfa4c44280a4ad715bab2532f0
-BBC Lifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
-BBC Lifestyle(B),P2p://generationnexxxt.com:19806/1d87116de5de48f5a94c45900b029545
-Discovery Asia,P2p://generationnexxxt.com:19806/6d031b7fba864255a10992d86da402ca
-Discovery Asia(B),P2p://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
-Discovery科学频道,P2p://generationnexxxt.com:19806/5eb5ac6d3cf243b69bce16ad8e841668
-历史频道,P2p://generationnexxxt.com:19806/b43ae6d6c7264673901171201610d68c
-罪案侦缉频道,P2p://generationnexxxt.com:19806/33eb3b21b71b469f9a9e0b780c615230
-探索频道(B),P2p://generationnexxxt.com:19806/03803dbb35eb4e78a332b2b421b770c8
-动物星球(B),P2p://generationnexxxt.com:19806/e2f475dd35c74f20b7dc33c3204beb23
-Smart知识台,P2p://generationnexxxt.com:19806/b90dd56d139b4ef9af62cfa2a07478f8
-ELTV生活英语台,P2p://generationnexxxt.com:19806/1a430b38978a4a0698ede6f842b3a265
-Love Nature,P2p://generationnexxxt.com:19806/95909f6c10614748a8d824e33bdfaad0
-
-🔰台灣-美食旅遊,#genre#
-美食星球,P2p://generationnexxxt.com:19806/02a89e372e1344d0b74c5b288d4d1cea
-美食星球(B),P2p://generationnexxxt.com:19806/603ff2b4a3b34834bbe7bbc04b6b8d78
-亚洲美食频道,P2p://generationnexxxt.com:19806/ac7e749ef27c4f2c8775ecaae5cd2206
-亚洲美食频道(B),P2p://generationnexxxt.com:19806/081793e8697647e5af4c70b9265cab70
-EYE TV旅游台(B),P2p://generationnexxxt.com:19806/5b302f252b45400888768bf7dce6cf94
-
-🔰台灣-娛樂,#genre#
-靖天育乐台,P2p://generationnexxxt.com:19806/056c144c71cc4b58be94ec2b1bc6409d
-中天娱乐台,P2p://generationnexxxt.com:19806/4ec900f6e5c0468db4b5f6743efa6508
-中天娱乐台(B),P2p://generationnexxxt.com:19806/ef92e3e69b334eaca20f0e2a26bf0f31
-TVBS欢乐台,P2p://generationnexxxt.com:19806/115a1e134813400abd3e49bad3af517c
-TVBS欢乐台(B),P2p://generationnexxxt.com:19806/2f5899dbb41e4f798ef5d21862533392
-八大娱乐台,P2p://generationnexxxt.com:19806/5ca416b9a3564813893dc1033310b6ba
-纬来育乐台,P2p://generationnexxxt.com:19806/5c2e47cfcc864451b73783def36674bb
-纬来育乐台(B),P2p://generationnexxxt.com:19806/582d689b3362424fbf99541335e57ba2
-韩国娱乐台,P2p://generationnexxxt.com:19806/8f28b72b74e64314b3b36973f682d021
-
-🔰台灣-旅遊,#genre#
-亚洲旅游台,P2p://generationnexxxt.com:19806/409459f958a04a5fa3609250df421445
-亚洲旅游台(B),P2p://generationnexxxt.com:19806/bc0c6c9782004039b1220b4faa8a3abf
-TLC旅游生活,P2p://generationnexxxt.com:19806/32000d7eec2049c6b1de2eb8cd3c9348
-EYE TV旅游台,P2p://generationnexxxt.com:19806/49931b62c0b34671af7cce9d0842ede8
-
-🔰台灣-體育,#genre#
-纬来体育台,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
-爱尔达体育1台,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
-爱尔达体育1台(B),P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
-爱尔达体育1台(备),P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
-爱尔达体育2台,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
-爱尔达体育2台(B),P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
-爱尔达体育3台,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
-爱尔达体育3台(B),P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f9605ed1e3
-爱尔达体育4台,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
-爱尔达体育4台(B),P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
-博斯高球,P2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e
-博斯高球二台,P2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
-博斯网球台,P2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd
-博斯魅力网,P2p://generationnexxxt.com:19806/e8db82c6084a4ae2b114ea7c5403b7a2
-博斯无限台,P2p://generationnexxxt.com:19806/0df5cdddf4b94ff09c04dfc4f11bcfcf
-博斯无限二台,P2p://generationnexxxt.com:19806/6826c724c9c846d1bd63a204a39f106f
-博斯运动,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4
-博斯运动二台,P2p://generationnexxxt.com:19806/9b8a1167e7484391ab3945d2dcb29170
-博斯高球(B),P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a
-博斯网球台(B),P2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4
-博斯运动(B),P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70
-博斯无限台(B),P2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c
-ELEVEN体育1台,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
-ELEVEN体育2台,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
-智林体育台,P2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118
-TRACE Sport Stars,P2p://generationnexxxt.com:19806/771e966a825d4e7e8280601cb8cc1227
-
-🔰台灣-卡通,#genre#
-MOMO亲子台,P2p://generationnexxxt.com:19806/e15e61548a2b4ff792b3dd6620be8139
-i-Fun动漫台,P2p://generationnexxxt.com:19806/5e4556e2a12846c5bedb721c6b5ff1c3
-i-Fun动漫台(B),P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
-CN卡通频道,P2p://generationnexxxt.com:19806/7eb800b1540d4aab9365efc149622aa0
-Animax,P2p://generationnexxxt.com:19806/7c6f8a583fc24b298779528c07b8c66d
-Animax(B),P2p://generationnexxxt.com:19806/4913cc8e4b7e490eaebbb4a081bf02b8
-东森幼幼台,P2p://generationnexxxt.com:19806/f426ffd2f2744109aedcfaa04fed3a6e
-尼克儿童频道,P2p://generationnexxxt.com:19806/1d8cc2412f824c3c888a5d91d241910c
-靖洋卡通Nice Bingo,P2p://generationnexxxt.com:19806/c7d3153e13894863a8d735c907971efd
-靖天映画,P2p://generationnexxxt.com:19806/02870872a71c4d2296b35dd02d5a9973
-靖天卡通台,P2p://generationnexxxt.com:19806/f55c325d0f8b4cac938804f090c50b5c
-
-🔰台灣-綜合,#genre#
+🔰台灣-綜合🔰,#genre#
 台视,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
 台视(备),P2p://generationnexxxt.com:19806/4f26385653f04516a9f205e141fa77b2
 中视,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac
@@ -3730,7 +3607,7 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40
 TechStorm,P2p://generationnexxxt.com:19806/9e84e7f44550435a91e4d0d92cc0147f
 不明台,P2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
 
-🔰台湾,#genre#
+🔰台湾🔰,#genre#
 BBC Lifestyle,mitv://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
 民视,mitv://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
 台视,mitv://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
@@ -4055,7 +3932,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
-🔰Taiwan,#genre#
+🔰Taiwan🔰,#genre#
 壹综合,p3p://173.208.176.178:19806/64e36a09000d3453a98b615460a544cd
 中天新闻,p3p://173.208.176.178:19806/613dba64000abeb1c801c02934bb45fc
 TVBS新闻,p3p://173.208.176.178:19806/621858e3000e70ad1217c0700d576ad0
@@ -4374,8 +4251,7 @@ Rock Expreme,p3p://173.208.176.178:19806/64c6200b000b7fb53722f24464fa73dc
 大爱2,p3p://173.208.176.178:19806/63eda04a0001f6fae973e6a334696980
 国兴卫视,p3p://173.208.176.178:19806/64bbca22000912200ec3b2631bca27c7
 
-
-台湾,#genre#
+🔰台湾🔰,#genre#
 BBC Lifestyle,mitv://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
 民视,mitv://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
 台视,mitv://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
