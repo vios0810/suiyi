@@ -13,16 +13,19 @@ GPTV電影台 ,https://www.youtube.com/watch?v=k1f1uti-xMU
 綜藝大熱門 ,https://www.youtube.com/watch?v=-L9cBf3oAO0
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
-現代嘉慶君 ,https://www.youtube.com/watch?v=IsFtLpSuf_g
+現代嘉慶君 ,https://www.youtube.com/watch?v=-rYKjlcw4CI
 沒玩沒了 ,https://www.youtube.com/watch?v=HGzIAC5pWr4
 綜藝玩很大 ,https://www.youtube.com/watch?v=62SgsYu_tSE
 天才衝衝衝 ,https://www.youtube.com/watch?v=F77-i0pnTt0
 台灣啟示錄 ,https://www.youtube.com/watch?v=PFeFPjqVi3g
 藍色水玲瓏 ,https://www.youtube.com/watch?v=rTcTVZBZtYs
 新玫瑰瞳鈴眼 ,https://www.youtube.com/watch?v=Zdz7g3bO8vw
-《我們這一家》,https://www.youtube.com/watch?v=UK81GCw1KE8
+我們這一家 ,https://www.youtube.com/watch?v=UK81GCw1KE8
+公視台語台 ,https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 🔰鴻哥精選音樂頻道,#genre#
+【Saxophone】,https://www.youtube.com/watch?v=c3IVTi6TlfE
+【睡眠音樂】,https://www.youtube.com/watch?v=b_TW4NYsbOo
 【Jazz】,https://www.youtube.com/watch?v=Dx5qFachd3A
 【Eight FM】,https://www.youtube.com/watch?v=o1ipHJUfFTM
 【LofiGirl-asian lofi radio】,https://www.youtube.com/watch?v=Na0w3Mz46GA
@@ -77,6 +80,9 @@ Channel [V],mitv://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
 【高雄旗津】,https://www.youtube.com/watch?v=qEishQW_Wxc
 【前鎮區 草衙道】,https://www.youtube.com/watch?v=l19qCwglItE
 【高雄市澄清湖、澄清湖觀夕平台】,https://www.youtube.com/watch?v=uKeDvjvYJdw
+【桃園國際機場】,https://www.youtube.com/watch?v=91PfFoqvuUk
+【大稻埕碼頭】,https://www.youtube.com/watch?v=Ndo_8RuefH4
+【石門水庫】,https://www.youtube.com/watch?v=GUCaVR88ZFU
 
 🔰台灣,#genre#
 民视,rtmp://f13h.mine.nu/sat/tv051
