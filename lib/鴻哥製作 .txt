@@ -1,5 +1,4 @@
 🔰鴻哥精選新聞頻道,#genre#
-山陀兒颱風監視,https://www.youtube.com/watch?v=VX0nULHEtpg
 東森新聞 ,https://www.youtube.com/watch?v=V1p33hqPrUk
 台視新聞台HD ,https://www.youtube.com/watch?v=xL0ch83RAK8
 TVBS NEWS ,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -24,6 +23,7 @@ GPTV電影台 ,https://www.youtube.com/watch?v=k1f1uti-xMU
 公視台語台 ,https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 🔰鴻哥精選音樂頻道,#genre#
+【40首英文經典懷念老歌】,https://www.youtube.com/watch?v=5jN9Frhb76E
 【Relaxing Night Jazz】,https://www.youtube.com/watch?v=Fyrvsjw_wiQ
 【KENNY G 2024🎷】,https://www.youtube.com/watch?v=uRIjLPrTWZs
 【Saxophone Jazz】,https://www.youtube.com/watch?v=bd2unkV8JxA
@@ -59,7 +59,6 @@ Channel [V],mitv://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
 【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
 【花蓮海岸-忘憂亭】,https://www.youtube.com/watch?v=Ic6hqus0tjA
 【高雄海岸_蚵寮國小】,https://www.youtube.com/watch?v=sKrqs-5Auqo&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=3
-【高雄觀光即時影像－山陀兒颱風動態直播】,https://www.youtube.com/watch?v=A8BMr4UBp6w
 【烏來老街與覽勝橋】,https://www.youtube.com/watch?v=tx07sS9lCvY&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=5
 【礁溪寒沐酒店頂樓】,https://www.youtube.com/watch?v=cPh2vzrtG_w&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=6
 【高雄壽山情人觀景台】,https://www.youtube.com/watch?v=C03Itx8iSC0&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=21
