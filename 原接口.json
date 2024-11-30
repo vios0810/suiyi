@@ -2,7 +2,8 @@
   "spider": "./fty.jar",
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
-    
+
+    {"key": "csp_appys_影盒","name": "影探4K","type": 3,"api": "csp_AppYsV2","可搜尋": 1,"quickSearch": 1,"可過濾": 1,"ext": "http://cmsyttv.lyyytv.cn/api.php/app/"},       
     {
             "key": "T4-heimuer",
             "name": "黑木耳(T4)",
