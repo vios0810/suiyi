@@ -2698,6 +2698,15 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+        "name": "😂😂鴻哥專用😁😁",
+        "type": 0,
+        "url": "hhttps://files.catbox.moe/5yoyxb.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+   },
+   {
         "name": "😂😂焦點173😁😁",
         "type": 0,
         "url": "https://files.catbox.moe/htith1.txt",
