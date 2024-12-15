@@ -6,6 +6,8 @@ TVBS NEWS ,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中視新聞LIVE ,https://www.youtube.com/watch?v=TCnaIE_SAtM
 三立新聞 ,https://www.youtube.com/watch?v=oZdzzvxTfUY
 華視新聞 ,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 
 🔰鴻哥精選綜藝頻道,#genre#
 大熱門猜歌王 ,https://www.youtube.com/watch?v=cpsP1wd-HgM
@@ -294,22 +296,103 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 動物星球,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 
-🔰SP🔰_1024,#genre#
-松视1台,mitv://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
-松视2台,mitv://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
-松视3台,mitv://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
-彩虹e台,mitv://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
-彩虹电影台,mitv://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
-LOOK TV,mitv://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
-惊艳成人电影台,mitv://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
-香蕉台,mitv://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
-HAPPY,mitv://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
-JStar极限台,mitv://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
-K频道,mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
+TW 酒店,#genre#
+ELTV生活,http://shuma004.chunfengyun.top:8080/live/56/hls.m3u8
+CRIME,http://shuma004.chunfengyun.top:8080/live/29/hls.m3u8
+民視第一台,http://shuma004.chunfengyun.top:8080/live/4/hls.m3u8
+民視台灣台,http://shuma004.chunfengyun.top:8080/live/5/hls.m3u8
+龍華電影台,http://shuma004.chunfengyun.top:8080/live/19/hls.m3u8
+CMUSIC音樂台,http://shuma004.chunfengyun.top:8080/live/72/hls.m3u8
+博斯運動1,http://shuma004.chunfengyun.top:8080/live/14/hls.m3u8
+TVBS歡樂台,http://shuma004.chunfengyun.top:8080/live/24/hls.m3u8
+博斯高球1,http://shuma004.chunfengyun.top:8080/live/13/hls.m3u8
+博斯网球,http://shuma004.chunfengyun.top:8080/live/16/hls.m3u8
+東森新聞,http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
+民视第一,http://shuma004.chunfengyun.top:8080/live/4/hls.m3u8
+亚洲旅游,http://shuma004.chunfengyun.top:8080/live/10/hls.m3u8
+东森新闻,http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
+三立综合,http://shuma004.chunfengyun.top:8080/live/31/hls.m3u8
+民视台湾,http://shuma004.chunfengyun.top:8080/live/5/hls.m3u8
+龙华日韩,http://shuma004.chunfengyun.top:8080/live/42/hls.m3u8
+龙华戏剧,http://shuma004.chunfengyun.top:8080/live/41/hls.m3u8
+龙华电影,http://shuma004.chunfengyun.top:8080/live/19/hls.m3u8
+中视经典,http://shuma004.chunfengyun.top:8080/live/47/hls.m3u8
+中视青采,http://shuma004.chunfengyun.top:8080/live/48/hls.m3u8
+寰宇台湾,http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
+公视戏剧,http://shuma004.chunfengyun.top:8080/live/87/hls.m3u8
+CINEMA WORLD,http://shuma004.chunfengyun.top:8080/live/30/hls.m3u8
+全球财经,http://shuma004.chunfengyun.top:8080/live/64/hls.m3u8
+華視新聞,http://shuma004.chunfengyun.top:8080/live/8/hls.m3u8
+互動英語,http://shuma004.chunfengyun.top:8080/live/54/hls.m3u8
+Nickelodeon,http://shuma004.chunfengyun.top:8080/live/12/hls.m3u8
+CinemaWorld,http://shuma004.chunfengyun.top:8080/live/30/hls.m3u8
+LOVE NATURE,http://shuma004.chunfengyun.top:8080/live/84/hls.m3u8
+ROCK ACTION,http://shuma004.chunfengyun.top:8080/live/94/hls.m3u8
+TECH STORM,http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
+电视剧3,http://shuma004.chunfengyun.top:8080/live/111/hls.m3u8
+哆啦A梦,http://shuma004.chunfengyun.top:8080/live/107/hls.m3u8
+电视剧2,http://shuma004.chunfengyun.top:8080/live/109/hls.m3u8
+镜新闻,http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
+BLOOMBERG,http://shuma004.chunfengyun.top:8080/live/34/hls.m3u8
+豬哥亮,http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
+电视剧,http://shuma004.chunfengyun.top:8080/live/108/hls.m3u8
+探案台,http://shuma004.chunfengyun.top:8080/live/11/hls.m3u8
+DW NEWS,http://shuma004.chunfengyun.top:8080/live/46/hls.m3u8
+HISTORY,http://shuma004.chunfengyun.top:8080/live/27/hls.m3u8
+hokkotv,http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
+电影,http://shuma004.chunfengyun.top:8080/live/11/hls.m3u8
+民视,http://shuma004.chunfengyun.top:8080/live/6/hls.m3u8
+中视,http://shuma004.chunfengyun.top:8080/live/7/hls.m3u8
+华视,http://shuma004.chunfengyun.top:8080/live/8/hls.m3u8
+影迷,http://shuma004.chunfengyun.top:8080/live/92/hls.m3u8
+中視,http://shuma004.chunfengyun.top:8080/live/7/hls.m3u8
+超人,http://shuma004.chunfengyun.top:8080/live/110/hls.m3u8
+综艺,http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
+影剧,http://shuma004.chunfengyun.top:8080/live/88/hls.m3u8
+旅游,http://shuma004.chunfengyun.top:8080/live/82/hls.m3u8
+民視,http://shuma004.chunfengyun.top:8080/live/6/hls.m3u8
+KOREA,http://shuma004.chunfengyun.top:8080/live/52/hls.m3u8
+TVBS,http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
+ROCK,http://shuma004.chunfengyun.top:8080/live/70/hls.m3u8
+HITS,http://shuma004.chunfengyun.top:8080/live/28/hls.m3u8
+CNBC,http://shuma004.chunfengyun.top:8080/live/102/hls.m3u8
+momo,http://shuma004.chunfengyun.top:8080/live/3/hls.m3u8
+LUXE,http://shuma004.chunfengyun.top:8080/live/86/hls.m3u8
+MTV,http://shuma004.chunfengyun.top:8080/live/25/hls.m3u8
+MCE,http://shuma004.chunfengyun.top:8080/live/98/hls.m3u8
+VOA,http://shuma004.chunfengyun.top:8080/live/45/hls.m3u8
+elta生活旅游,http://shuma004.chunfengyun.top:8080/live/85/hls.m3u8
+亞洲旅遊台,http://shuma004.chunfengyun.top:8080/live/10/hls.m3u8
+靖洋戲劇台,http://shuma004.chunfengyun.top:8080/live/17/hls.m3u8
+靖天電影台,http://shuma004.chunfengyun.top:8080/live/18/hls.m3u8
+寰宇财经,http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
+智林体育,http://shuma004.chunfengyun.top:8080/live/77/hls.m3u8
+東森購物,http://shuma004.chunfengyun.top:8080/live/66/hls.m3u8
+人间卫视,http://shuma004.chunfengyun.top:8080/live/101/hls.m3u8
+八大綜合,http://shuma004.chunfengyun.top:8080/live/21/hls.m3u8
+幸福空間,http://shuma004.chunfengyun.top:8080/live/26/hls.m3u8
+東森購物,http://shuma004.chunfengyun.top:8080/live/61/hls.m3u8
+博斯無限,http://shuma004.chunfengyun.top:8080/live/15/hls.m3u8
+LIFE TIME,http://shuma004.chunfengyun.top:8080/live/71/hls.m3u8
+動畫台,http://shuma004.chunfengyun.top:8080/live/57/hls.m3u8
+新唐人,http://shuma004.chunfengyun.top:8080/live/51/hls.m3u8
+TV5 MONDE,http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
+PET CLUB,http://shuma004.chunfengyun.top:8080/live/81/hls.m3u8
+FESTIVAL,http://shuma004.chunfengyun.top:8080/live/83/hls.m3u8
+动漫2,http://shuma004.chunfengyun.top:8080/live/106/hls.m3u8
+HakkaTV,http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
+动漫,http://shuma004.chunfengyun.top:8080/live/105/hls.m3u8
+nickjr,http://shuma004.chunfengyun.top:8080/live/22/hls.m3u8
+CNBC,http://shuma004.chunfengyun.top:8080/live/102/hls.m3u8
+居家,http://shuma004.chunfengyun.top:8080/live/26/hls.m3u8
+GOOD2,http://shuma004.chunfengyun.top:8080/live/99/hls.m3u8
+TiTV,http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
 
 🌍🔰📺电影明星频道🌍🔰📺,#genre#
-
+星爷,http://mtw.so/6oKdhX
+林正英,http://mtw.so/5FCWRo
+动作电影,http://mtw.so/6he0fm
+李连杰,http://mtw.so/69HNaP
 电影_星爷,https://www.goodiptv.club/huya/11342412
 电影_英叔,https://www.goodiptv.club/huya/11342421
 电影_发哥,https://www.goodiptv.club/huya/11342387
@@ -618,6 +701,20 @@ ELTA體育1,rtmp://f13h.mine.nu/sat/md051
 鬥魚電影43,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K.flv?wsAuth=5098901b40bc7b87b4eed18509f89245&token=cpn-androidmpro-0-20415-b6774b3b3249db178d68e54e4be54bf1ca391679b3fb2ffa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 鬥魚電影45,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 
+🔰SP🔰_1024,#genre#
+松视1台,mitv://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
+松视2台,mitv://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
+松视3台,mitv://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
+彩虹e台,mitv://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
+彩虹电影台,mitv://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
+LOOK TV,mitv://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
+惊艳成人电影台,mitv://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
+香蕉台,mitv://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
+HAPPY,mitv://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
+JStar极限台,mitv://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
+K频道,mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
+
 🔰CH1_1024,#genre#
 Шокирующее,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6229/index.m3u8
 центральное,http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/20090/manifest.m3u8
@@ -774,7 +871,8 @@ Rough,http://cdn.adultiptv.net/rough.m3u8
 playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 🔰CH2_1024,#genre#
-japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
+japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
+
 legal,http://162.19.243.184/716/mono.m3u8?token=M4f082ab4c
 bl,http://162.19.243.184/715/mono.m3u8?token=M4f082ab4c
 hu,http://162.19.243.184/714/mono.m3u8?token=M4f082ab4c
