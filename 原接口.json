@@ -2705,7 +2705,6 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	
     {
         "name": "😂😂4gtv1😁😁",
         "type": 0,
@@ -2760,7 +2759,6 @@
 	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    
     {
 	"name": "PDX-V6",
 	"type": 0,
@@ -2790,13 +2788,10 @@
 	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
-
-
 {"name":"玩偶姐姐全套","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u","epg":"http://epg.hklive.tv","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"蜂蜜18+","type":0,"url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"三哥偷蜂蜜大屌18+","type":0,"url":"https://qu.ax/fMNM.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"垃圾堆成山","type":0,"url":"https://qu.ax/ktVO.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
     {
       "name": "live",
       "type": "0",
@@ -2805,7 +2800,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
     {
         "name": "😂😂垃圾源😁😁",
         "type": 0,
@@ -2814,7 +2808,7 @@
         "ua": "okhttp/3.15",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
-   },
+    },
     {
         "name": "😂😂鴻哥精製😁😁",
         "type": 0,
@@ -2998,8 +2992,6 @@
        "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
        "logo": "https://epg.112114.xyz/logo/{name}.png"
      },
-     {"name":"16万•MV","type":0,
-	     "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
-     },
+     {"name":"16万•MV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt" },
           ]
- }
+}
