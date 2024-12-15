@@ -25,7 +25,11 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 獵人HUNTER×HUNTER ,https://www.youtube.com/watch?v=Z4QKk1mST-4
 
 🔰鴻哥精選音樂頻道,#genre#
-【ROSÉ & Bruno Mars-APT】,https://www.youtube.com/watch?v=TY6OVN2aEKs 
+【Imagine】,https://www.youtube.com/watch?v=Qh_rtx5bpgc
+【APT. x Toxic】,https://www.youtube.com/watch?v=TM1dJezPIrI
+【APT. x GIRLFRIEND】,https://www.youtube.com/watch?v=GOfQojp6QAk
+【ROSÉ & Bruno Mars-APT】,https://www.youtube.com/watch?v=TY6OVN2aEKs
+【想你的夜】,https://www.youtube.com/watch?v=9agseBruqKM
 【王傑好歌】,https://www.youtube.com/watch?v=969YC5n2mIQ
 【藍夜-江得勝】,https://www.youtube.com/watch?v=4nDYPr2NeDA
 【燃燒】,https://www.youtube.com/watch?v=Eh7lS4BS22w
