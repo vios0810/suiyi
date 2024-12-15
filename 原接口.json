@@ -2901,7 +2901,7 @@
     {
       "name": "香蕉哥佛系｜Sport",
       "type": 0,
-      "url": "https://tv.iill.top/m3u/Sport", //https://tv.iill.top/m3u/Gather //https://github.com/YanG-1989
+      "url": "https://tv.iill.top/m3u/Gather //https://github.com/YanG-1989
       "playerType": 1,
       "ua": "okhttp/3.15",
       "pass": true,
@@ -2912,7 +2912,7 @@
     {
       "name": "18+ 麻豆合集",
       "type": 0,
-      "url": "https://t4.doube.eu.org/madou.txt" //M3U
+      "url": "https://t4.doube.eu.org/madou.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
