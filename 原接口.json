@@ -2897,18 +2897,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
- 
-    {
-      "name": "香蕉哥佛系｜Sport",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather //https://github.com/YanG-1989
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "pass": true,
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
       "name": "18+ 麻豆合集",
       "type": 0,
@@ -2993,7 +2981,7 @@
     },
 
     {
-      "name": "享受1｜International", //2024-08-10
+      "name": "享受1｜International", 
       "type": 0,
       "url": "http://0tt118.getenjoyment.net/m3u.php",
      "playerType": 1,
