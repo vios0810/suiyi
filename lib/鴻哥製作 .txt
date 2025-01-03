@@ -2,9 +2,9 @@
 東森新聞 ,https://www.youtube.com/watch?v=V1p33hqPrUk
 台視新聞台HD ,https://www.youtube.com/watch?v=xL0ch83RAK8
 TVBS NEWS ,https://www.youtube.com/watch?v=m_dhMSvUCIc
-中天新聞HD ,https://www.youtube.com/watch?v=oIgbl7t0S_w no
+中天新聞HD ,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中視新聞LIVE ,https://www.youtube.com/watch?v=TCnaIE_SAtM
-三立新聞 ,https://www.youtube.com/watch?v=oZdzzvxTfUY
+三立新聞 ,https://www.youtube.com/watch?v=MV9mI0GChwo
 華視新聞 ,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
@@ -14,12 +14,12 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
 現代嘉慶君 ,https://www.youtube.com/watch?v=bzSfQ1I5-s8
-綜藝玩很大 ,https://www.youtube.com/watch?v=YqL_NEtuek4
+綜藝玩很大 ,https://www.youtube.com/watch?v=5UfG-LzbZXk
 天才衝衝衝 ,https://www.youtube.com/watch?v=UsZi0jxZHZ8
 新哆啦A夢 ,https://www.youtube.com/watch?v=dgAEF2ppKg8
 台灣啟示錄 ,https://www.youtube.com/watch?v=TR7dfvmtWsg
 藍色水玲瓏 ,https://www.youtube.com/watch?v=rTcTVZBZtYs
-新玫瑰瞳鈴眼 ,https://www.youtube.com/watch?v=Zdz7g3bO8vw
+新玫瑰瞳鈴眼 ,https://www.youtube.com/watch?v=qGU7fT1y8qE
 公視台語台 ,https://www.youtube.com/watch?v=6KlRR_DGhmI
 11點熱吵店 ,https://www.youtube.com/watch?v=Ef_TLglnoeo
 獵人HUNTER×HUNTER ,https://www.youtube.com/watch?v=Z4QKk1mST-4
