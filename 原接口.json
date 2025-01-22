@@ -3,6 +3,7 @@
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
     {
+        {
             "key": "T4-heimuer",
             "name": "黑木耳(T4)",
             "type": 4,
