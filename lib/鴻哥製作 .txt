@@ -348,7 +348,7 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
 現代嘉慶君 ,https://www.youtube.com/watch?v=bzSfQ1I5-s8
-57怪物奇談 ，https://m.youtube.com/watch?v=0CfImCAFIPo&pp=ygUONTfmgKrlpYfnianoqp4%3D-LzbZXk
+57怪物奇談 ,https://m.youtube.com/watch?v=0CfImCAFIPo&pp=ygUONTfmgKrlpYfnianoqp4%3D-LzbZXk
 天才衝衝衝 ,https://www.youtube.com/watch?v=UsZi0jxZHZ8
 新哆啦A夢 ,https://www.youtube.com/watch?v=dgAEF2ppKg8
 台灣啟示錄 ,https://www.youtube.com/watch?v=TR7dfvmtWsg
