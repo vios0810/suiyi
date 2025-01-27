@@ -208,12 +208,16 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 
 🔰鴻哥精選綜藝頻道,#genre#
 大熱門猜歌王 ,https://www.youtube.com/watch?v=cpsP1wd-HgM
+大熱門猜歌王過年特輯 ,https://www.youtube.com/watch?v=yi4uWbH6-Zg
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
 現代嘉慶君 ,https://www.youtube.com/watch?v=bzSfQ1I5-s8
 57怪物奇談 ,https://m.youtube.com/watch?v=0CfImCAFIPo&pp=ygUONTfmgKrlpYfnianoqp4%3D-LzbZXk
+戲說台灣 ,https://www.youtube.com/watch?v=RHZZRievt1o
 天才衝衝衝 ,https://www.youtube.com/watch?v=UsZi0jxZHZ8
+綜藝玩很大 ,https://www.youtube.com/watch?v=ryClunmbUaI
 新哆啦A夢 ,https://www.youtube.com/watch?v=dgAEF2ppKg8
+新兵日記&特戰英雄 ,https://www.youtube.com/watch?v=032kEdR9Lic
 台灣啟示錄 ,https://www.youtube.com/watch?v=TR7dfvmtWsg
 藍色水玲瓏 ,https://www.youtube.com/watch?v=rTcTVZBZtYs
 新玫瑰瞳鈴眼 ,https://www.youtube.com/watch?v=qGU7fT1y8qE
